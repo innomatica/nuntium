@@ -1,0 +1,62 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "CBC News",
+            "nickname": "CBC",
+            "website": "https://www.cbc.ca",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "canada",
+                "public"
+            ],
+            "feedlist": "https://www.cbc.ca/rss/",
+            "favicon": "https://www.cbc.ca/favicon.ico",
+            "channels": {
+                "Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+                "World": "https://rss.cbc.ca/lineup/world.xml",
+                "Canada": "https://rss.cbc.ca/lineup/canada.xml",
+                "Politics": "https://rss.cbc.ca/lineup/politics.xml",
+                "Business": "https://rss.cbc.ca/lineup/business.xml",
+                "Health": "https://rss.cbc.ca/lineup/health.xml",
+                "Arts & Entertainment": "https://rss.cbc.ca/lineup/arts.xml",
+                "Technology & Science": "https://rss.cbc.ca/lineup/technology.xml",
+                "Offbeat": "https://rss.cbc.ca/lineup/offbeat.xml",
+                "Indigenous": "https://www.cbc.ca/cmlink/rss-Indigenous",
+                "Sports": "https://rss.cbc.ca/lineup/sports.xml",
+                "MLB": "https://rss.cbc.ca/lineup/sports-mlb.xml",
+                "NBA": "https://rss.cbc.ca/lineup/sports-nba.xml",
+                "Curling": "https://rss.cbc.ca/lineup/sports-curling.xml",
+                "CFL": "https://rss.cbc.ca/lineup/sports-cfl.xml",
+                "NFL": "https://rss.cbc.ca/lineup/sports-nfl.xml",
+                "NHL": "https://rss.cbc.ca/lineup/sports-nhl.xml",
+                "Soccer": "https://rss.cbc.ca/lineup/sports-soccer.xml",
+                "The National - In Depth Reports": "https://rss.cbc.ca/lineup/thenational.xml",
+                "British Columbia": "https://rss.cbc.ca/lineup/canada-britishcolumbia.xml",
+                "Calgary": "https://rss.cbc.ca/lineup/canada-calgary.xml",
+                "Edmonton": "https://rss.cbc.ca/lineup/canada-edmonton.xml",
+                "Hamilton": "https://rss.cbc.ca/lineup/canada-hamiltonnews.xml",
+                "Kamloops": "https://rss.cbc.ca/lineup/canada-kamloops.xml",
+                "Kitchener-Waterloo": "https://rss.cbc.ca/lineup/canada-kitchenerwaterloo.xml",
+                "London": "https://www.cbc.ca/cmlink/rss-canada-london",
+                "Manitoba": "https://rss.cbc.ca/lineup/canada-manitoba.xml",
+                "Montreal": "https://rss.cbc.ca/lineup/canada-montreal.xml",
+                "New Brunswick": "https://rss.cbc.ca/lineup/canada-newbrunswick.xml",
+                "Newfoundland & Labrador": "https://rss.cbc.ca/lineup/canada-newfoundland.xml",
+                "North": "https://rss.cbc.ca/lineup/canada-north.xml",
+                "Nova Scotia": "https://rss.cbc.ca/lineup/canada-novascotia.xml",
+                "Ottawa": "https://www.cbc.ca/cmlink/rss-canada-ottawa",
+                "Prince Edward Island": "https://rss.cbc.ca/lineup/canada-pei.xml",
+                "Saskatchewan": "https://rss.cbc.ca/lineup/canada-saskatchewan.xml",
+                "Saskatoon": "https://rss.cbc.ca/lineup/canada-saskatoon.xml",
+                "Sudbury": "https://rss.cbc.ca/lineup/canada-sudbury.xml",
+                "Thunder Bay": "https://rss.cbc.ca/lineup/canada-thunderbay.xml",
+                "Windsor": "https://rss.cbc.ca/lineup/canada-windsor.xml",
+                "Toronto": "https://rss.cbc.ca/lineup/canada-toronto.xml"
+            }
+        }
+    ]
+}

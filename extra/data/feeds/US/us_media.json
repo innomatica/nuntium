@@ -1,0 +1,60 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "CNN News",
+            "nickname": "CNN",
+            "website": "https://www.cnn.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "usa"
+            ],
+            "feedlist": "https://www.cnn.com/services/rss/",
+            "favicon": "https://www.cnn.com/favicon.ico",
+            "channels": {
+                "Top Stories": "http://rss.cnn.com/rss/cnn_topstories.rss",
+                "World": "http://rss.cnn.com/rss/cnn_world.rss",
+                "U.S.": "http://rss.cnn.com/rss/cnn_us.rss",
+                "Politics": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+                "Technology": "http://rss.cnn.com/rss/cnn_tech.rss",
+                "Health": "http://rss.cnn.com/rss/cnn_health.rss",
+                "Entertainment": "http://rss.cnn.com/rss/cnn_showbiz.rss",
+                "Travel": "http://rss.cnn.com/rss/cnn_travel.rss",
+                "Video": "http://rss.cnn.com/rss/cnn_freevideo.rss",
+                "CNN 10": "http://rss.cnn.com/services/podcasting/cnn10/rss.xml",
+                "Most Recent": "http://rss.cnn.com/rss/cnn_latest.rss",
+                "CNN Underscored": "http://rss.cnn.com/cnn-underscored"
+            }
+        },
+        {
+            "title": "PBS NewsHour",
+            "nickname": "PBS",
+            "website": "https://www.pbs.org/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "usa",
+                "public"
+            ],
+            "feedlist": "https://www.pbs.org/newshour/subscribe#rss-feeds",
+            "favicon": "https://www.pbs.org/favicon.ico",
+            "channels": {
+                "The Latest": "https://www.pbs.org/newshour/feeds/rss/headlines",
+                "Politics": "https://www.pbs.org/newshour/feeds/rss/politics",
+                "Arts": "https://www.pbs.org/newshour/feeds/rss/arts",
+                "Nation": "https://www.pbs.org/newshour/feeds/rss/nation",
+                "World": "https://www.pbs.org/newshour/feeds/rss/world",
+                "Economy": "https://www.pbs.org/newshour/feeds/rss/economy",
+                "Science": "https://www.pbs.org/newshour/feeds/rss/science",
+                "Health": "https://www.pbs.org/newshour/feeds/rss/health",
+                "Education": "https://www.pbs.org/newshour/feeds/rss/education",
+                "Agents for Change": "https://www.pbs.org/newshour/feeds/rss/agents-for-change",
+                "American Graduate": "https://www.pbs.org/newshour/feeds/rss/american-graduate"
+            }
+        }
+    ]
+}

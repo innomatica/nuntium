@@ -1,0 +1,83 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "교보문고 북뉴스",
+            "nickname": "교보문고",
+            "website": "http://news.kyobobook.co.kr/main.ink",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "서점"
+            ],
+            "feedlist": "http://news.kyobobook.co.kr/RSS.ink",
+            "favicon": "https://www.kyobobook.co.kr/favicon.ico",
+            "channels": {
+                "뉴스전체": "http://news.kyobobook.co.kr/rssv2/booknews_all_rss.xml",
+                "오늘뉴스": "http://news.kyobobook.co.kr/rssv2/todaynews_rss.xml",
+                "눈에 띄는 책": "http://news.kyobobook.co.kr/rssv2/eyebook_rss.xml",
+                "기획특집": "http://news.kyobobook.co.kr/rssv2/specialplus_rss.xml",
+                "인터뷰": "http://news.kyobobook.co.kr/rssv2/interview_rss.xml",
+                "연재:기사 전체": "http://news.kyobobook.co.kr/rssv2/publish_rss.xml",
+                "연재:웹툰": "http://news.kyobobook.co.kr/rssv2/publish_webtoon_rss.xml",
+                "연재:칼럼": "http://news.kyobobook.co.kr/rssv2/publish_opencolumnlist_rss.xml",
+                "연재:READ IT": "http://news.kyobobook.co.kr/rssv2/publish_readit_rss.xml",
+                "연재:북챗": "http://news.kyobobook.co.kr/rssv2/publish_bookchat_rss.xml",
+                "북TV:기사 전체": "http://news.kyobobook.co.kr/rssv2/booktv_rss.xml",
+                "북TV:북캐스트": "http://news.kyobobook.co.kr/rssv2/booktv_welcomeshow_rss.xml",
+                "북TV:북튜버": "http://news.kyobobook.co.kr/rssv2/booktv_booktube_rss.xml",
+                "북TV:영상스케치": "http://news.kyobobook.co.kr/rssv2/booktv_sketch_rss.xml",
+                "연재종료:기사 전체": "http://news.kyobobook.co.kr/rssv2/publishend_rss.xml",
+                "연재종료:책상자": "http://news.kyobobook.co.kr/rssv2/booktv_bookbox_rss.xml",
+                "연재종료:베스트셀러": "http://news.kyobobook.co.kr/rssv2/booktv_bestseller_rss.xml",
+                "연재종료:북트레일러": "http://news.kyobobook.co.kr/rssv2/booktv_booktrailer_rss.xml",
+                "연재종료:북토리언": "http://news.kyobobook.co.kr/rssv2/publish_booktorianlist_rss.xml",
+                "연재종료:소설": "http://news.kyobobook.co.kr/rssv2/publish_novel_rss.xml"
+            }
+        },
+        {
+            "title": "Reddit",
+            "nickname": "Reddit",
+            "website": "https://www.reddit.com/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "소셜",
+                "커뮤니티"
+            ],
+            "feedlist": "https://www.reddit.com/wiki/rss",
+            "favicon": "https://www.reddit.com/favicon.ico",
+            "channels": {
+                "r/hanguk": "https://www.reddit.com/r/hanguk/.rss",
+                "r/KoreaRealism": "https://www.reddit.com/r/KoreaRealism/.rss"
+            }
+        },
+        {
+            "title": "모터그래프",
+            "nickname": "모터그래프",
+            "website": "https://www.motorgraph.com/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "자동차",
+                "시승기"
+            ],
+            "feedlist": "https://www.motorgraph.com/rss/",
+            "favicon": "https://www.motorgraph.com/image/logo/favicon_20180420032255.ico",
+            "channels": {
+                "전체기사": "https://www.motorgraph.com/rss/allArticle.xml",
+                "인기기사": "https://www.motorgraph.com/rss/clickTop.xml",
+                "신차": "https://www.motorgraph.com/rss/S1N1.xml",
+                "업계·정책": "https://www.motorgraph.com/rss/S1N2.xml",
+                "칼럼·분석": "https://www.motorgraph.com/rss/S1N3.xml",
+                "시승기·리뷰": "https://www.motorgraph.com/rss/S1N4.xml",
+                "결함·문제점": "https://www.motorgraph.com/rss/S1N5.xml",
+                "라이프": "https://www.motorgraph.com/rss/S1N6.xml",
+                "모터쇼": "https://www.motorgraph.com/rss/S1N7.xml",
+                "업계의 소리": "https://www.motorgraph.com/rss/S1N8.xml"
+            }
+        }
+    ]
+}

@@ -1,0 +1,469 @@
+{
+  "created": "2023-01-22T18:34:29.790696",
+  "data": [
+    {
+      "title": "\u671d\u65e5\u65b0\u805e",
+      "nickname": "\u671d\u65e5",
+      "website": "https://www.asahi.com",
+      "description": "",
+      "language": "japanese",
+      "keywords": [
+        "news",
+        "japan"
+      ],
+      "feedlist": "https://www.asahi.com/information/service/rss.html",
+      "favicon": "https://www.asahi.com/favicon.ico",
+      "channels": {
+        "\u30c7\u30b8\u30bf\u30eb\u901f\u5831\u30cb\u30e5\u30fc\u30b9": "https://www.asahi.com/rss/asahi/newsheadlines.rdf",
+        "\u793e\u4f1a": "https://www.asahi.com/rss/asahi/national.rdf",
+        "\u653f\u6cbb": "https://www.asahi.com/rss/asahi/politics.rdf",
+        "\u30b9\u30dd\u30fc\u30c4": "https://www.asahi.com/rss/asahi/sports.rdf",
+        "\u30aa\u30ea\u30f3\u30d4\u30c3\u30af": "https://www.asahi.com/rss/olympics.rdf",
+        "\u30b5\u30c3\u30ab\u30fc\u30ef\u30fc\u30eb\u30c9\u30ab\u30c3\u30d7": "https://www.asahi.com/rss/worldcup.rdf",
+        "\u7d4c\u6e08\u30fb\u30de\u30cd\u30fc": "https://www.asahi.com/rss/asahi/business.rdf",
+        "\u56fd\u969b": "https://www.asahi.com/rss/asahi/international.rdf",
+        "\u30ab\u30eb\u30c1\u30e3\u30fc": "https://www.asahi.com/rss/asahi/culture.rdf",
+        "\u3069\u3046\u3076\u3064\u65b0\u805e": "https://www.asahi.com/rss/animal.rdf",
+        "\u30c6\u30c3\u30af\uff06\u30b5\u30a4\u30a8\u30f3\u30b9": "https://www.asahi.com/rss/asahi/science.rdf",
+        "\u56f2\u7881": "https://www.asahi.com/rss/asahi/igo.rdf",
+        "\u5c06\u68cb": "https://www.asahi.com/rss/asahi/shogi.rdf",
+        "\u4f4f\u307e\u3044": "https://www.asahi.com/rss/asahi/housing.rdf",
+        "\u5c31\u8077\u8ee2\u8077": "https://www.asahi.com/rss/asahi/job.rdf",
+        "\u98df\u3068\u6599\u7406": "https://www.asahi.com/rss/asahi/food.rdf",
+        "\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3": "https://www.asahi.com/rss/asahi/fashion.rdf",
+        "\u5065\u5eb7": "https://www.asahi.com/rss/asahi/health.rdf",
+        "\u611b\u8eca": "https://www.asahi.com/rss/asahi/car.rdf",
+        "\u6559\u80b2": "https://www.asahi.com/rss/asahi/edu.rdf",
+        "\u30c7\u30b8\u30bf\u30eb": "https://www.asahi.com/rss/asahi/digital.rdf",
+        "\u30c8\u30e9\u30d9\u30eb": "https://www.asahi.com/rss/asahi/travel.rdf",
+        "\u74b0\u5883\u30fb\u30a8\u30cd\u30eb\u30ae\u30fc": "https://www.asahi.com/rss/asahi/eco.rdf",
+        "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0": "https://www.asahi.com/rss/asahi/shopping.rdf"
+      }
+    },
+    {
+      "title": "Nikkei Asia",
+      "nickname": "Nikkei",
+      "website": "https://asia.nikkei.com",
+      "description": "",
+      "language": "japanese",
+      "keywords": [
+        "news",
+        "japan",
+        "asia"
+      ],
+      "feedlist": "https://info.asia.nikkei.com/rss",
+      "favicon": "https://s3-eu-west-1.amazonaws.com/landingi-editor-uploads/a0wZqCfr/favicon_A.ico",
+      "channels": {
+        "News": "https://asia.nikkei.com/rss/feed/nar"
+      }
+    },
+    {
+      "title": "NHK\u30cb\u30e5\u30fc\u30b9",
+      "nickname": "NHK\u30cb\u30e5\u30fc\u30b9",
+      "website": "http://www.nhk.or.jp/news/",
+      "description": "",
+      "language": "japanese",
+      "keywords": [
+        "news",
+        "japan",
+        "public"
+      ],
+      "feedlist": "https://www.nhk.or.jp/toppage/rss/index.html",
+      "favicon": "https://www.nhk.or.jp/favicon.ico",
+      "channels": {
+        "\u4e3b\u8981\u30cb\u30e5\u30fc\u30b9": "https://www.nhk.or.jp/rss/news/cat0.xml",
+        "\u793e\u4f1a": "https://www.nhk.or.jp/rss/news/cat1.xml",
+        "\u79d1\u5b66\u30fb\u533b\u7642": "https://www.nhk.or.jp/rss/news/cat3.xml",
+        "\u653f\u6cbb": "https://www.nhk.or.jp/rss/news/cat4.xml",
+        "\u7d4c\u6e08": "https://www.nhk.or.jp/rss/news/cat5.xml",
+        "\u56fd\u969b": "https://www.nhk.or.jp/rss/news/cat6.xml",
+        "\u30b9\u30dd\u30fc\u30c4": "https://www.nhk.or.jp/rss/news/cat7.xml",
+        "\u6587\u5316\u30fb\u30a8\u30f3\u30bf\u30e1": "https://www.nhk.or.jp/rss/news/cat2.xml",
+        "LIVE\u30cb\u30e5\u30fc\u30b9": "https://www.nhk.or.jp/rss/news/cat-live.xml"
+      }
+    },
+    {
+      "title": "BBC News",
+      "nickname": "BBC",
+      "website": "https://bbc.co.uk/news",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "uk",
+        "public"
+      ],
+      "feedlist": "https://www.bbc.co.uk/news/10628494",
+      "favicon": "https://bbc.co.uk/favicon.ico",
+      "channels": {
+        "Top Stories": "http://feeds.bbci.co.uk/news/rss.xml",
+        "World": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+        "Business": "http://feeds.bbci.co.uk/news/business/rss.xml",
+        "Politics": "http://feeds.bbci.co.uk/news/politics/rss.xml",
+        "Health": "http://feeds.bbci.co.uk/news/health/rss.xml",
+        "Education & Family": "http://feeds.bbci.co.uk/news/education/rss.xml",
+        "Science & Environment": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "Technology": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+        "Entertainment & Arts": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "Africa": "http://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "Asia": "http://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "Europe": "http://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "Latin America": "http://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "Middle East": "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "US & Canada": "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "England": "http://feeds.bbci.co.uk/news/england/rss.xml",
+        "Northern Ireland": "http://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "Scotland": "http://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "Wales": "http://feeds.bbci.co.uk/news/wales/rss.xml",
+        "Latest published stories": "http://feeds.bbci.co.uk/news/system/latest_published_content/rss.xml",
+        "Magazine": "http://feeds.bbci.co.uk/news/magazine/rss.xml",
+        "Also in the news": "http://feeds.bbci.co.uk/news/also_in_the_news/rss.xml",
+        "In Pictures": "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_pictures/rss.xml",
+        "Special Reports": "http://feeds.bbci.co.uk/news/special_reports/rss.xml",
+        "Have your say": "http://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "Editors Blog": "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "BBC Sport feeds": "https://news.bbc.co.uk/sport1/hi/help/rss/default.stm"
+      }
+    },
+    {
+      "title": "CBC News",
+      "nickname": "CBC",
+      "website": "https://www.cbc.ca",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "canada",
+        "public"
+      ],
+      "feedlist": "https://www.cbc.ca/rss/",
+      "favicon": "https://www.cbc.ca/favicon.ico",
+      "channels": {
+        "Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+        "World": "https://rss.cbc.ca/lineup/world.xml",
+        "Canada": "https://rss.cbc.ca/lineup/canada.xml",
+        "Politics": "https://rss.cbc.ca/lineup/politics.xml",
+        "Business": "https://rss.cbc.ca/lineup/business.xml",
+        "Health": "https://rss.cbc.ca/lineup/health.xml",
+        "Arts & Entertainment": "https://rss.cbc.ca/lineup/arts.xml",
+        "Technology & Science": "https://rss.cbc.ca/lineup/technology.xml",
+        "Offbeat": "https://rss.cbc.ca/lineup/offbeat.xml",
+        "Indigenous": "https://www.cbc.ca/cmlink/rss-Indigenous",
+        "Sports": "https://rss.cbc.ca/lineup/sports.xml",
+        "MLB": "https://rss.cbc.ca/lineup/sports-mlb.xml",
+        "NBA": "https://rss.cbc.ca/lineup/sports-nba.xml",
+        "Curling": "https://rss.cbc.ca/lineup/sports-curling.xml",
+        "CFL": "https://rss.cbc.ca/lineup/sports-cfl.xml",
+        "NFL": "https://rss.cbc.ca/lineup/sports-nfl.xml",
+        "NHL": "https://rss.cbc.ca/lineup/sports-nhl.xml",
+        "Soccer": "https://rss.cbc.ca/lineup/sports-soccer.xml",
+        "The National - In Depth Reports": "https://rss.cbc.ca/lineup/thenational.xml",
+        "British Columbia": "https://rss.cbc.ca/lineup/canada-britishcolumbia.xml",
+        "Calgary": "https://rss.cbc.ca/lineup/canada-calgary.xml",
+        "Edmonton": "https://rss.cbc.ca/lineup/canada-edmonton.xml",
+        "Hamilton": "https://rss.cbc.ca/lineup/canada-hamiltonnews.xml",
+        "Kamloops": "https://rss.cbc.ca/lineup/canada-kamloops.xml",
+        "Kitchener-Waterloo": "https://rss.cbc.ca/lineup/canada-kitchenerwaterloo.xml",
+        "London": "https://www.cbc.ca/cmlink/rss-canada-london",
+        "Manitoba": "https://rss.cbc.ca/lineup/canada-manitoba.xml",
+        "Montreal": "https://rss.cbc.ca/lineup/canada-montreal.xml",
+        "New Brunswick": "https://rss.cbc.ca/lineup/canada-newbrunswick.xml",
+        "Newfoundland & Labrador": "https://rss.cbc.ca/lineup/canada-newfoundland.xml",
+        "North": "https://rss.cbc.ca/lineup/canada-north.xml",
+        "Nova Scotia": "https://rss.cbc.ca/lineup/canada-novascotia.xml",
+        "Ottawa": "https://www.cbc.ca/cmlink/rss-canada-ottawa",
+        "Prince Edward Island": "https://rss.cbc.ca/lineup/canada-pei.xml",
+        "Saskatchewan": "https://rss.cbc.ca/lineup/canada-saskatchewan.xml",
+        "Saskatoon": "https://rss.cbc.ca/lineup/canada-saskatoon.xml",
+        "Sudbury": "https://rss.cbc.ca/lineup/canada-sudbury.xml",
+        "Thunder Bay": "https://rss.cbc.ca/lineup/canada-thunderbay.xml",
+        "Windsor": "https://rss.cbc.ca/lineup/canada-windsor.xml",
+        "Toronto": "https://rss.cbc.ca/lineup/canada-toronto.xml"
+      }
+    },
+    {
+      "title": "PBS NewsHour",
+      "nickname": "PBS",
+      "website": "https://www.pbs.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "usa",
+        "public"
+      ],
+      "feedlist": "https://www.pbs.org/newshour/subscribe#rss-feeds",
+      "favicon": "https://www.pbs.org/favicon.ico",
+      "channels": {
+        "The Latest": "https://www.pbs.org/newshour/feeds/rss/headlines",
+        "Politics": "https://www.pbs.org/newshour/feeds/rss/politics",
+        "Arts": "https://www.pbs.org/newshour/feeds/rss/arts",
+        "Nation": "https://www.pbs.org/newshour/feeds/rss/nation",
+        "World": "https://www.pbs.org/newshour/feeds/rss/world",
+        "Economy": "https://www.pbs.org/newshour/feeds/rss/economy",
+        "Science": "https://www.pbs.org/newshour/feeds/rss/science",
+        "Health": "https://www.pbs.org/newshour/feeds/rss/health",
+        "Education": "https://www.pbs.org/newshour/feeds/rss/education",
+        "Agents for Change": "https://www.pbs.org/newshour/feeds/rss/agents-for-change",
+        "American Graduate": "https://www.pbs.org/newshour/feeds/rss/american-graduate"
+      }
+    },
+    {
+      "title": "Guardian, The",
+      "nickname": "Guardian",
+      "website": "https://www.theguardian.com",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "uk"
+      ],
+      "feedlist": "https://www.theguardian.com/help/feeds",
+      "favicon": "https://www.theguardian.com/favicon.ico",
+      "channels": {
+        "World": "https://www.theguardian.com/world/rss",
+        "Europe": "https://www.theguardian.com/world/europe-news/rss",
+        "US": "https://www.theguardian.com/us-news/rss",
+        "Americas": "https://www.theguardian.com/world/americas/rss",
+        "Asia": "https://www.theguardian.com/world/asia/rss",
+        "Australia": "https://www.theguardian.com/australia-news/rss",
+        "Middle East": "https://www.theguardian.com/world/middleeast/rss",
+        "Africa": "https://www.theguardian.com/world/africa/rss",
+        "Inequality": "https://www.theguardian.com/inequality/rss",
+        "Glolbal Development": "https://www.theguardian.com/global-development/rss"
+      }
+    },
+    {
+      "title": "Nature",
+      "nickname": "Nature",
+      "website": "https://www.nature.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science"
+      ],
+      "feedlist": "https://www.nature.com/",
+      "favicon": "https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png",
+      "channels": {
+        "All Articles": "https://www.nature.com/nature.rss"
+      }
+    },
+    {
+      "title": "PLOS",
+      "nickname": "PLOS",
+      "website": "https://plos.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science"
+      ],
+      "feedlist": "https://journals.plos.org/ploscompbiol/s/find-and-read-articles#loc-new-articles-by-rss",
+      "favicon": "https://plos.org/wp-content/themes/plos/favicon/favicon-32x32.png",
+      "channels": {
+        "Biology": "https://journals.plos.org/plosbiology/feed/atom",
+        "Climate": "https://journals.plos.org/climate/feed/atom",
+        "Computational Biology": "https://journals.plos.org/ploscompbiol/feed/atom",
+        "Digital Health": "https://journals.plos.org/digitalhealth/feed/atom",
+        "Genetics": "https://journals.plos.org/plosgenetics/feed/atom",
+        "Global Public Health": "https://journals.plos.org/globalpublichealth/feed/atom",
+        "Medicine": "https://journals.plos.org/plosmedicine/feed/atom",
+        "Neglected Tropical Diseases": "https://journals.plos.org/plosntds/feed/atom",
+        "ONE": "https://journals.plos.org/plosone/feed/atom",
+        "Pathogens": "https://journals.plos.org/plospathogens/feed/atom",
+        "Sustainability and Transformation": "https://journals.plos.org/sustainabilitytransformation/feed/atom",
+        "Water": "https://journals.plos.org/water/feed/atom",
+        "Blog": "https://theplosblog.plos.org/feed/"
+      }
+    },
+    {
+      "title": "Phys.org",
+      "nickname": "Phys",
+      "website": "https://phys.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science",
+        "physics"
+      ],
+      "feedlist": "https://phys.org/feeds/",
+      "favicon": "https://phys.org/favicon.ico",
+      "channels": {
+        "All News": "https://phys.org/rss-feed/",
+        "Earth": "https://phys.org/rss-feed/earth-news/",
+        "Other Sciences": "https://phys.org/rss-feed/science-news/",
+        "Nanotechnology": "https://phys.org/rss-feed/nanotech-news/",
+        "Physics": "https://phys.org/rss-feed/physics-news/",
+        "Astronomy & Space": "https://phys.org/rss-feed/space-news/",
+        "Biology": "https://phys.org/rss-feed/biology-news/",
+        "Chemistry": "https://phys.org/rss-feed/chemistry-news/"
+      }
+    },
+    {
+      "title": "MagPi Magazine",
+      "nickname": "MagPi",
+      "website": "https://magpi.raspberrypi.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine",
+        "hobby"
+      ],
+      "feedlist": "https://magpi.raspberrypi.com/feed",
+      "favicon": "https://magpi.raspberrypi.com/assets/magpi/favicon-2078abe5477dfeb7a273e1826d821a28a4e988fe.png",
+      "channels": {
+        "All articles": "https://magpi.raspberrypi.com/feed"
+      }
+    },
+    {
+      "title": "Liliputing",
+      "nickname": "Liliputing",
+      "website": "https://liliputing.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine",
+        "hobby"
+      ],
+      "feedlist": "https://liliputing.com/feed/",
+      "favicon": "https://liliputing.com/wp-content/uploads/2020/02/cropped-lp_icon_1024-e1582423214846-32x32.png",
+      "channels": {
+        "All articles": "https://liliputing.com/feed/"
+      }
+    },
+    {
+      "title": "CNX - Software",
+      "nickname": "CNX",
+      "website": "https://www.cnx-software.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine",
+        "hobby"
+      ],
+      "feedlist": "https://www.cnx-software.com/feed/",
+      "favicon": "https://cdn.cnx-software.com/wp-content/uploads/2021/04/cropped-CNX-Software-Square-Logo-Light-Grey-1.png?lossy=1&resize=32%2C32&ssl=1",
+      "channels": {
+        "All articles": "https://www.cnx-software.com/feed/"
+      }
+    },
+    {
+      "title": "Reddit",
+      "nickname": "Reddit",
+      "website": "https://www.reddit.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "community"
+      ],
+      "feedlist": "https://www.reddit.com/wiki/rss",
+      "favicon": "https://www.reddit.com/favicon.ico",
+      "channels": {
+        "r/funny": "https://www.reddit.com/r/funny/.rss",
+        "r/aww": "https://www.reddit.com/r/aww/.rss",
+        "r/pics": "https://www.reddit.com/r/pics/.rss",
+        "r/science": "https://www.reddit.com/r/science/.rss",
+        "r/worldnews": "https://www.reddit.com/r/worldnews/.rss",
+        "r/news": "https://www.reddit.com/r/news/.rss",
+        "r/videos": "https://www.reddit.com/r/videos/.rss",
+        "r/IAmA": "https://www.reddit.com/r/IAmA/.rss",
+        "r/todayilearned": "https://www.reddit.com/r/todayilearned/.rss",
+        "r/atheism": "https://www.reddit.com/r/atheism/.rss",
+        "r/technology": "https://www.reddit.com/r/technology/.rss",
+        "r/AdviceAnimals": "https://www.reddit.com/r/AdviceAnimals/.rss",
+        "r/Music": "https://www.reddit.com/r/Music/.rss",
+        "r/movies": "https://www.reddit.com/r/movies/.rss",
+        "r/bestof": "https://www.reddit.com/r/bestof/.rss",
+        "r/trees": "https://www.reddit.com/r/trees/.rss",
+        "r/gifs": "https://www.reddit.com/r/gifs/.rss",
+        "r/reactiongifs": "https://www.reddit.com/r/reactiongifs/.rss",
+        "r/mildlyinteresting": "https://www.reddit.com/r/mildlyinteresting/.rss",
+        "r/fffffffuuuuuuuuuuuu": "https://www.reddit.com/r/fffffffuuuuuuuuuuuu/.rss",
+        "r/woahdude": "https://www.reddit.com/r/woahdude/.rss",
+        "r/arresteddevelopment": "https://www.reddit.com/r/arresteddevelopment/.rss",
+        "r/gameofthrones": "https://www.reddit.com/r/gameofthrones/.rss",
+        "r/cats": "https://www.reddit.com/r/cats/.rss",
+        "r/doctorwho": "https://www.reddit.com/r/doctorwho/.rss",
+        "r/MURICA": "https://www.reddit.com/r/MURICA/.rss",
+        "r/firstworldanarchists": "https://www.reddit.com/r/firstworldanarchists/.rss"
+      }
+    },
+    {
+      "title": "Hacker News",
+      "nickname": "Hacker",
+      "website": "https://news.ycombinator.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "it"
+      ],
+      "feedlist": "https://hnrss.github.io/",
+      "favicon": "https://news.ycombinator.com/favicon.ico",
+      "channels": {
+        "Newest": "https://hnrss.org/newest"
+      }
+    },
+    {
+      "title": "NASA",
+      "nickname": "NASA",
+      "website": "https://www.nasa.gov/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "science"
+      ],
+      "feedlist": "https://www.nasa.gov/content/nasa-rss-feeds",
+      "favicon": "https://www.nasa.gov/favicon.ico",
+      "channels": {
+        "Breaking News": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+        "Education News": "https://www.nasa.gov/rss/dyn/educationnews.rss",
+        "Image of the Day": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "ISS Report": "http://blogs.nasa.gov/stationreport/feed/",
+        "On the Station": "https://www.nasa.gov/rss/dyn/onthestation_rss.rss",
+        "Kepler Mission": "https://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss",
+        "Chandra Mission": "http://www.nasa.gov/rss/dyn/chandra_images.rss",
+        "Space Station": "https://www.nasa.gov/rss/dyn/shuttle_station.rss",
+        "Solar System and Beyond": "https://www.nasa.gov/rss/dyn/solar_system.rss",
+        "Earth": "https://www.nasa.gov/rss/dyn/earth.rss",
+        "Aeronautics": "https://www.nasa.gov/rss/dyn/aeronautics.rss",
+        "Hurricane Update": "https://www.nasa.gov/rss/dyn/hurricaneupdate.rss"
+      }
+    },
+    {
+      "title": "Wikipedia",
+      "nickname": "Wikipedia",
+      "website": "https://en.wikipedia.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "wiki"
+      ],
+      "feedlist": "https://feedly.helpscoutdocs.com/article/361-how-to-follow-wikipedia-feeds",
+      "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+      "channels": {
+        "New Articles": "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
+        "Featured": "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom"
+      }
+    },
+    {
+      "title": "XDA Developers",
+      "nickname": "XDA",
+      "website": "https://en.wikipedia.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine"
+      ],
+      "feedlist": "https://www.xda-developers.com/feed/",
+      "favicon": "https://www.xda-developers.com/favicon.ico",
+      "channels": {
+        "All Articles": "https://www.xda-developers.com/feed/"
+      }
+    }
+  ]
+}

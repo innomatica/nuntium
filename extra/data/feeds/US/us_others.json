@@ -1,0 +1,50 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "Gizmodo",
+            "nickname": "Gizmodo",
+            "website": "https://gizmodo.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "magazine",
+                "it"
+            ],
+            "feedlist": "https://gizmodo.com/",
+            "favicon": "https://gizmodo.com/favicon.ico",
+            "channels": {
+                "News": "https://gizmodo.com/rss"
+            }
+        },
+        {
+            "title": "Verge, The",
+            "nickname": "The Verge",
+            "website": "https://www.theverge.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "magazine",
+                "it"
+            ],
+            "feedlist": "https://www.theverge.com/2012/1/25/2732963/verge-rss-feeds",
+            "favicon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/21956592/favicon-96x96.0.0.ico",
+            "channels": {
+                "All Posts": "https://www.theverge.com/rss/index.xml",
+                "Android": "http://www.theverge.com/android/rss/index.xml",
+                "Apple": "http://www.theverge.com/apple/rss/index.xml",
+                "Apps & Software": "http://www.theverge.com/apps/rss/index.xml",
+                "BlackBerry": "http://www.theverge.com/blackberry/rss/index.xml",
+                "Culture": "http://www.theverge.com/culture/rss/index.xml",
+                "Gaming": "http://www.theverge.com/gaming/rss/index.xml",
+                "HD & Home": "http://www.theverge.com/hd/rss/index.xml",
+                "Microsoft": "http://www.theverge.com/microsoft/rss/index.xml",
+                "Mobile": "http://www.theverge.com/mobile/rss/index.xml",
+                "Photography & Video": "http://www.theverge.com/photography/rss/index.xml",
+                "Policy & Law": "http://www.theverge.com/policy/rss/index.xml",
+                "Web & Social": "http://www.theverge.com/web/rss/index.xml"
+            }
+        }
+    ]
+}

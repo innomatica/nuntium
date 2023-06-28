@@ -1,0 +1,122 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "The Straits Times",
+            "nickname": "ST",
+            "website": "https://www.straitstimes.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "https://www.straitstimes.com/RSS-Feeds",
+            "favicon": "https://www.straitstimes.com/themes/custom/straitstimes/favicon.ico",
+            "channels": {
+                "Opinion":"https://www.straitstimes.com/news/opinion/rss.xml",
+                "Asia":"https://www.straitstimes.com/news/asia/rss.xml"
+            }
+        },
+        {
+            "title": "Business Times",
+            "nickname": "BT",
+            "website": "https://www.businesstimes.com.sg/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "https://www.businesstimes.com.sg/rss-feeds",
+            "favicon": "https://static.businesstimes.com.sg/s3fs-public/favicon-5.png",
+            "channels": {
+                "Companies & Markets":"https://www.businesstimes.com.sg/rss/companies-markets",
+                "Stocks":"https://www.businesstimes.com.sg/rss/stocks",
+                "Real Estate":"https://www.businesstimes.com.sg/rss/real-estate",
+                "Banking & Finance":"https://www.businesstimes.com.sg/rss/banking-finance",
+                "Government & Economy":"https://www.businesstimes.com.sg/rss/government-economy",
+                "Wealth & Investing":"https://www.businesstimes.com.sg/rss/wealth-investing",
+                "ASEAN Business":"https://www.businesstimes.com.sg/rss/asean-business"
+            }
+        },
+        {
+            "title": "The Independent",
+            "nickname": "TI",
+            "website": "https://theindependent.sg/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "https://theindependent.sg/feed/",
+            "favicon": "https://media.theindependent.sg/wp-content/uploads/2022/09/01122133/tisg-button.png",
+            "channels": {
+                "News":"https://theindependent.sg/feed/"
+            }
+        },
+        {
+            "title": "The Online Citizen",
+            "nickname": "TOC",
+            "website": "https://www.theonlinecitizen.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "https://www.theonlinecitizen.com/feed/",
+            "favicon": "https://www.theonlinecitizen.com/wp-content/uploads/2020/12/tocfav.png",
+            "channels": {
+                "News":"https://www.theonlinecitizen.com/feed/"
+            }
+        },
+        {
+            "title": "Mothership SG",
+            "nickname": "MS",
+            "website": "https://mothership.sg/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "https://mothership.sg/feed/",
+            "favicon": "https://mothership.sg/assets/images/favicon-32x32.png",
+            "channels": {
+                "News":"https://mothership.sg/feed/"
+            }
+        },
+        {
+            "title": "HardwareZone",
+            "nickname": "HZ",
+            "website": "https://www.hardwarezone.com.sg/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "https://www.hardwarezone.com.sg/feeds",
+            "favicon": "https://mothership.sg/assets/images/favicon-32x32.png",
+            "channels": {
+                "News":"https://feeds.feedburner.com/hardwarezone/news",
+                "HWZ TV":"https://feeds.feedburner.com/hardwarezone/tv",
+                "Featured":"https://feeds.feedburner.com/hardwarezone/features",
+                "Blogs":"https://feeds.feedburner.com/hardwarezone/blogs",
+                "Price Lists":"https://feeds.feedburner.com/hardwarezone/price-lists"
+            }
+        },
+        {
+            "title": "Singapore Star",
+            "nickname": "Star",
+            "website": "https://www.singaporestar.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "http://feeds.singaporestar.com/rss/a677a0718b69db72",
+            "favicon": "https://static.midwestradionetwork.com/web/premier/favicons/favicon.ico",
+            "channels": {
+                "News":"http://feeds.singaporestar.com/rss/a677a0718b69db72"
+            }
+        }
+    ]
+}

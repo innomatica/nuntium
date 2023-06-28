@@ -1,0 +1,62 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "The Scientist",
+            "nickname": "TS",
+            "website": "https://the-scientist.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "science"
+            ],
+            "feedlist": "https://blog.feedspot.com/science_rss_feeds/",
+            "favicon": "https://cdn.the-scientist.com/static/5.6.14/favicon.ico",
+            "channels": {
+                "All Articles": "https://www.the-scientist.com/rss/feed-the-scientist.xml"
+            }
+        },
+        {
+            "title": "Reddit",
+            "nickname": "Reddit",
+            "website": "https://www.reddit.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "community"
+            ],
+            "feedlist": "https://www.reddit.com/wiki/rss",
+            "favicon": "https://www.reddit.com/favicon.ico",
+            "channels": {
+                "r/canada": "https://www.reddit.com/r/canada/.rss",
+                "r/ottawa": "https://www.reddit.com/r/ottawa/.rss",
+                "r/montreal": "https://www.reddit.com/r/montreal/.rss",
+                "r/toronto": "https://www.reddit.com/r/toronto/.rss"
+            }
+        },        {
+            "title": "Government of Canada (partial list)",
+            "nickname": "GC",
+            "website": "https://www.canada.ca/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "government"
+            ],
+            "feedlist": "https://www.canada.ca/en/news/web-feeds.html",
+            "favicon": "https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico",
+            "channels": {
+                "Accessibility Standards Canada":"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadianaccessibilitystandardsdevelopmentorganization&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=50&format=atom&atomtitle=Accessibility%20Standards%20Canada",
+                "Agriculture and Agri-Food Canada":"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=agricultureagrifood&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Agriculture%20and%20Agri-Food%20Canada",
+                "Canadian Centre for Occupational Health and Safety":"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=canadiancentreforoccupationalhealthandsafety&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Centre%20for%20Occupational%20Health%20and%20Safety",
+                "Employment and Social Development Canada":"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofemploymentandsocialdevelopment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Employment%20and%20Social%20Development%20Canada",
+                "Environment and Climate Change Canada":"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentoftheenvironment&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Environment%20and%20Climate%20Change%20Canada",
+                "Innovation: Science and Economic Development Canada":"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofindustry&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Innovation,%20Science%20and%20Economic%20Development%20Canada",
+                "National Research Council Canada":"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=nationalresearchcouncil&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=National%20Research%20Council%20Canada",
+                "Public Service Commission":"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=publicservicecommission&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Public%20Service%20Commission",
+                "Social Sciences and Humanities Research Council":"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=socialscienceshumanitiesresearch&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Social%20Sciences%20and%20Humanities%20Research%20Council",
+                "Women and Gender Equality Canada":"https://api.io.canada.ca/io-server/gc/news/en/v2?dept=statuswomen&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=50&format=atom&atomtitle=Women%20and%20Gender%20Equality%20Canada"
+            }
+        }
+    ]
+}

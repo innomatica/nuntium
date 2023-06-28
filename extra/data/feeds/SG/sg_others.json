@@ -1,0 +1,45 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "Reddit",
+            "nickname": "Reddit",
+            "website": "https://www.reddit.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "community"
+            ],
+            "feedlist": "https://www.reddit.com/wiki/rss",
+            "favicon": "https://www.reddit.com/favicon.ico",
+            "channels": {
+                "r/singapore": "https://www.reddit.com/r/singapore/.rss",
+                "r/askSingapore":"https://www.reddit.com/r/askSingapore/.rss",
+                "r/SingaporeRaw":"https://www.reddit.com/r/SingaporeRaw/.rss",
+                "r/nus":"https://www.reddit.com/r/nus/.rss",
+                "r/singaporefi":"https://www.reddit.com/r/singaporefi/.rss",
+                "r/SingaporeEats":"https://www.reddit.com/r/SingaporeEats/.rss",
+                "r/NTU":"https://www.reddit.com/r/NTU/.rss"
+            }
+        },
+        {
+            "title": "Public Service Division",
+            "nickname": "psd.gov",
+            "website": "https://www.psd.gov.sg/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "government"
+            ],
+            "feedlist": "https://www.psd.gov.sg/rss",
+            "favicon": "https://www.psd.gov.sg/html/PSDRevamp/favicon.ico",
+            "channels": {
+                "Forum Letter Replies":"https://www.psd.gov.sg/rss?module=forum-letter-replies",
+                "Press Releases": "https://www.psd.gov.sg/rss?module=press-releases",
+                "Parliamentary Replies": "https://www.psd.gov.sg/rss?module=parliamentary-replies",
+                "Speeches":"https://www.psd.gov.sg/rss?module=speeches"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1131 @@
+{
+  "created": "2023-01-22T18:34:29.787983",
+  "data": [
+    {
+      "title": "\uacbd\ud5a5\uc2e0\ubb38",
+      "nickname": "\uacbd\ud5a5",
+      "website": "https://www.khan.co.kr/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4"
+      ],
+      "feedlist": "https://www.khan.co.kr/help/help_rss.html",
+      "favicon": "https://www.khan.co.kr/favicon.ico",
+      "channels": {
+        "\uc804\uccb4\ub274\uc2a4": "https://www.khan.co.kr/rss/rssdata/total_news.xml",
+        "\uc815\uce58": "https://www.khan.co.kr/rss/rssdata/politic_news.xml",
+        "\uacbd\uc81c": "https://www.khan.co.kr/rss/rssdata/economy_news.xml",
+        "\uc0ac\ud68c": "https://www.khan.co.kr/rss/rssdata/society_news.xml",
+        "\uad6d\uc81c": "https://www.khan.co.kr/rss/rssdata/kh_world.xml",
+        "\uc2a4\ud3ec\uce20": "http://www.khan.co.kr/rss/rssdata/kh_sports.xml",
+        "\ubb38\ud654": "https://www.khan.co.kr/rss/rssdata/culture_news.xml",
+        "\uc5f0\uc608": "https://www.khan.co.kr/rss/rssdata/kh_entertainment.xml",
+        "IT": "http://www.khan.co.kr/rss/rssdata/it_news.xml",
+        "\uc804\uad6d": "https://www.khan.co.kr/rss/rssdata/local_news.xml",
+        "\uc778\ubb3c": "https://www.khan.co.kr/rss/rssdata/people_news.xml",
+        "\uc624\ud53c\ub2c8\uc5b8": "https://www.khan.co.kr/rss/rssdata/opinion_news.xml"
+      }
+    },
+    {
+      "title": "\ub274\uc2a4\uc640\uc774\uc5b4",
+      "nickname": "\ub274\uc2a4\uc640\uc774\uc5b4",
+      "website": "https://www.newswire.co.kr",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ubcf4\ub3c4\uc790\ub8cc"
+      ],
+      "feedlist": "https://www.newswire.co.kr/?md=A31",
+      "favicon": "https://www.newswire.co.kr/favicon.ico",
+      "channels": {
+        "\ubcf4\ub3c4\uc790\ub8cc \uc804\uccb4": "https://api.newswire.co.kr/rss/all",
+        "IT": "https://api.newswire.co.kr/rss/industry/600",
+        "\uac74\uac15": "https://api.newswire.co.kr/rss/industry/1000",
+        "\uacbd\uc81c": "https://api.newswire.co.kr/rss/industry/100",
+        "\uad50\uc721": "https://api.newswire.co.kr/rss/industry/1100",
+        "\uae08\uc735": "https://api.newswire.co.kr/rss/industry/200",
+        "\ub18d\uc218\uc0b0": "https://api.newswire.co.kr/rss/industry/1700",
+        "\ub77c\uc774\ud504 \uc2a4\ud0c0\uc77c": "https://api.newswire.co.kr/rss/industry/900",
+        "\ub808\uc800": "https://api.newswire.co.kr/rss/industry/1300",
+        "\ubb38\ud654/\uc5f0\uc608": "https://api.newswire.co.kr/rss/industry/1200",
+        "\ubb3c\ub958/\uad50\ud1b5": "https://api.newswire.co.kr/rss/industry/1800",
+        "\ubbf8\ub514\uc5b4": "https://api.newswire.co.kr/rss/industry/700",
+        "\ubd80\ub3d9\uc0b0": "https://api.newswire.co.kr/rss/industry/300",
+        "\uc0ac\ud68c": "https://api.newswire.co.kr/rss/industry/1900",
+        "\uc0b0\uc5c5": "https://api.newswire.co.kr/rss/industry/400",
+        "\uc2a4\ud3ec\uce20": "https://api.newswire.co.kr/rss/industry/1600",
+        "\uc5d0\ub108\uc9c0/\ud658\uacbd": "https://api.newswire.co.kr/rss/industry/1500",
+        "\uc720\ud1b5": "https://api.newswire.co.kr/rss/industry/800",
+        "\uc790\ub3d9\ucc28": "https://api.newswire.co.kr/rss/industry/500",
+        "\uc815\ucc45/\uc815\ubd80": "https://api.newswire.co.kr/rss/industry/1400",
+        "\uc0c1\uc7a5\uc0ac": "https://api.newswire.co.kr/rss/irnews",
+        "\uc601\ubb38": "https://api.newswire.co.kr/rss/english",
+        "\ub3d9\uc601\uc0c1": "https://api.newswire.co.kr/rss/movie",
+        "\uc11c\uc6b8": "https://api.newswire.co.kr/rss/region/1",
+        "\uc778\ucc9c/\uacbd\uae30": "https://api.newswire.co.kr/rss/region/2",
+        "\ub300\uc804/\ucda9\ub0a8": "https://api.newswire.co.kr/rss/region/3",
+        "\uad11\uc8fc/\uc804\ub0a8": "https://api.newswire.co.kr/rss/region/4",
+        "\ubd80\uc0b0/\uc6b8\uc0b0/\uacbd\ub0a8": "https://api.newswire.co.kr/rss/region/5",
+        "\ub300\uad6c/\uacbd\ubd81": "https://api.newswire.co.kr/rss/region/6",
+        "\uac15\uc6d0": "https://api.newswire.co.kr/rss/region/7",
+        "\ucda9\ubd81": "https://api.newswire.co.kr/rss/region/8",
+        "\uc804\ubd81": "https://api.newswire.co.kr/rss/region/9",
+        "\uc81c\uc8fc": "https://api.newswire.co.kr/rss/region/10",
+        "\ud574\uc678": "https://api.newswire.co.kr/rss/region/11",
+        "\uac1c\ubc1c": "https://api.newswire.co.kr/rss/theme/112",
+        "\uacf5\ubaa8/\ubaa8\uc9d1": "https://api.newswire.co.kr/rss/theme/114",
+        "\uae30\uc5c5\ubb38\ud654": "https://api.newswire.co.kr/rss/theme/108",
+        "\uae30\ud0c0": "https://api.newswire.co.kr/rss/theme/125",
+        "\ubd84\uc591": "https://api.newswire.co.kr/rss/theme/109",
+        "\uc0ac\uc5c5\uacc4\ud68d": "https://api.newswire.co.kr/rss/theme/116",
+        "\uc0ac\ud68c\uacf5\ud5cc": "https://api.newswire.co.kr/rss/theme/107",
+        "\uc120\uc5b8/\uc758\uacac": "https://api.newswire.co.kr/rss/theme/117",
+        "\uc124\ub9bd": "https://api.newswire.co.kr/rss/theme/111",
+        "\uc18c\uc1a1": "https://api.newswire.co.kr/rss/theme/124",
+        "\uc218\uc0c1/\uc120\uc815": "https://api.newswire.co.kr/rss/theme/118",
+        "\uc218\uc8fc": "https://api.newswire.co.kr/rss/theme/113",
+        "\uc2e0\uc0c1\ud488": "https://api.newswire.co.kr/rss/theme/101",
+        "\uc2e4\uc801": "https://api.newswire.co.kr/rss/theme/102",
+        "\uc778\ubb3c\ub3d9\uc815": "https://api.newswire.co.kr/rss/theme/104",
+        "\uc778\uc0ac": "https://api.newswire.co.kr/rss/theme/105",
+        "\uc778\uc218/\ud569\ubcd1": "https://api.newswire.co.kr/rss/theme/119",
+        "\uc804\uc2dc/\ucd9c\ud488": "https://api.newswire.co.kr/rss/theme/120",
+        "\uc815\ucc45": "https://api.newswire.co.kr/rss/theme/123",
+        "\uc81c\ud734": "https://api.newswire.co.kr/rss/theme/106",
+        "\uc870\uc0ac\uc5f0\uad6c": "https://api.newswire.co.kr/rss/theme/121",
+        "\ucc44\uc6a9": "https://api.newswire.co.kr/rss/theme/115",
+        "\ud22c\uc790": "https://api.newswire.co.kr/rss/theme/110",
+        "\ud310\ucd09\ud65c\ub3d9": "https://api.newswire.co.kr/rss/theme/103",
+        "\ud589\uc0ac": "https://api.newswire.co.kr/rss/theme/122"
+      }
+    },
+    {
+      "title": "\ub178\ucef7\ub274\uc2a4",
+      "nickname": "\ub178\ucef7",
+      "website": "https://nocutnews.co.kr/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4"
+      ],
+      "feedlist": "https://nocutnews.co.kr/rss/",
+      "favicon": "https://nocutnews.co.kr/favicon.ico",
+      "channels": {
+        "\uc815\uce58": "https://rss.nocutnews.co.kr/category/politics.xml",
+        "\uacbd\uc81c": "https://rss.nocutnews.co.kr/category/economy.xml",
+        "\uc0ac\ud68c": "https://rss.nocutnews.co.kr/category/society.xml",
+        "\ubb38\ud654": "https://rss.nocutnews.co.kr/category/culture.xml",
+        "\uc138\uacc4": "https://rss.nocutnews.co.kr/category/world.xml",
+        "IT/\uacfc\ud559": "https://rss.nocutnews.co.kr/category/it.xml",
+        "\uc5f0\uc608": "https://rss.nocutnews.co.kr/category/entertainment.xml",
+        "\uc2a4\ud3ec\uce20": "https://rss.nocutnews.co.kr/category/sports.xml",
+        "\uc804\uad6d": "https://rss.nocutnews.co.kr/category/area.xml",
+        "\uc624\ud53c\ub2c8\uc5b8": "https://rss.nocutnews.co.kr/category/opinion.xml",
+        "\ud3ec\ud1a0": "https://rss.nocutnews.co.kr/category/photo.xml",
+        "\uc804\uccb4": "https://rss.nocutnews.co.kr/news/news.xml",
+        "TOP": "https://rss.nocutnews.co.kr/news/top.xml",
+        "\uac15\uc6d0": "https://rss.nocutnews.co.kr/news/gangwon.xml",
+        "\uac15\uc6d0\uc601\ub3d9": "https://rss.nocutnews.co.kr/news/yeongdong.xml",
+        "\uacbd\uc778": "https://rss.nocutnews.co.kr/news/gyeongin.xml",
+        "\uacbd\ub0a8": "https://rss.nocutnews.co.kr/news/gyeongnam.xml",
+        "\uad11\uc8fc": "https://rss.nocutnews.co.kr/news/gwangju.xml",
+        "\ub300\uad6c": "https://rss.nocutnews.co.kr/news/daegu.xml",
+        "\ub300\uc804": "https://rss.nocutnews.co.kr/news/daejeon.xml",
+        "\ubd80\uc0b0": "https://rss.nocutnews.co.kr/news/busan.xml",
+        "\uc6b8\uc0b0": "https://rss.nocutnews.co.kr/news/ulsan.xml",
+        "\uc804\ub0a8": "https://rss.nocutnews.co.kr/news/jeonnam.xml",
+        "\uc804\ubd81": "https://rss.nocutnews.co.kr/news/jeonbuk.xml",
+        "\uc81c\uc8fc": "https://rss.nocutnews.co.kr/news/jeju.xml",
+        "\uccad\uc8fc": "https://rss.nocutnews.co.kr/news/cheongju.xml",
+        "\ud3ec\ud56d": "https://rss.nocutnews.co.kr/news/pohang.xml"
+      }
+    },
+    {
+      "title": "\ub9e4\uc77c\uacbd\uc81c",
+      "nickname": "\ub9e4\uacbd",
+      "website": "https://www.mk.co.kr/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uacbd\uc81c"
+      ],
+      "feedlist": "https://www.mk.co.kr/rss/",
+      "favicon": "https://img.mk.co.kr/main/2015/mk_new/favicon_new.ico",
+      "channels": {
+        "\ud5e4\ub4dc\ub77c\uc778": "https://www.mk.co.kr/rss/30000001/",
+        "\uc804\uccb4\ub274\uc2a4": "https://www.mk.co.kr/rss/40300001/",
+        "\uacbd\uc81c": "https://www.mk.co.kr/rss/30100041/",
+        "\uc815\uce58": "https://www.mk.co.kr/rss/30200030/",
+        "\uc0ac\ud68c": "https://www.mk.co.kr/rss/50400012/",
+        "\uad6d\uc81c": "https://www.mk.co.kr/rss/30300018/",
+        "\uae30\uc5c5\u318d\uacbd\uc601": "https://www.mk.co.kr/rss/50100032/",
+        "\uc99d\uad8c": "https://www.mk.co.kr/rss/50200011/",
+        "\ubd80\ub3d9\uc0b0": "https://www.mk.co.kr/rss/50300009/",
+        "\ubb38\ud654\u318d\uc5f0\uc608": "https://www.mk.co.kr/rss/30000023/",
+        "\uc2a4\ud3ec\uce20": "https://www.mk.co.kr/rss/71000001/",
+        "\uac8c\uc784": "https://www.mk.co.kr/rss/50700001/",
+        "MBA": "https://www.mk.co.kr/rss/40200124/",
+        "\uba38\ub2c8 \uc564 \ub9ac\uce58\uc2a4": "https://www.mk.co.kr/rss/40200003/",
+        "Top Stories": "https://www.mk.co.kr/rss/30800011/",
+        "\uc774\ucf54\ub178\ubbf8": "https://www.mk.co.kr/rss/50000001/",
+        "\uc2dc\ud2f0\ub77c\uc774\ud504": "https://www.mk.co.kr/rss/60000007/"
+      }
+    },
+    {
+      "title": "\ubbf8\ub514\uc5b4\uc624\ub298",
+      "nickname": "\ubbf8\ub514\uc5b4\uc624\ub298",
+      "website": "http://www.mediatoday.co.kr/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4"
+      ],
+      "feedlist": "http://www.mediatoday.co.kr/rssIndex.html",
+      "favicon": "https://cdn.mediatoday.co.kr/image/logo/favicon.ico",
+      "channels": {
+        "\uc804\uccb4\uae30\uc0ac": "https://www.mediatoday.co.kr/rss/allArticle.xml",
+        "\uc778\uae30\uae30\uc0ac": "https://www.mediatoday.co.kr/rss/clickTop.xml",
+        "\uc815\uce58": "https://www.mediatoday.co.kr/rss/S1N2.xml",
+        "\uacbd\uc81c": "https://www.mediatoday.co.kr/rss/S1N3.xml",
+        "\uc0ac\ud68c": "https://www.mediatoday.co.kr/rss/S1N4.xml",
+        "\ubb38\ud654": "https://www.mediatoday.co.kr/rss/S1N5.xml",
+        "\uad6d\uc81c": "https://www.mediatoday.co.kr/rss/S1N6.xml",
+        "IT": "https://www.mediatoday.co.kr/rss/S1N7.xml",
+        "\uc624\ud53c\ub2c8\uc5b8": "https://www.mediatoday.co.kr/rss/S1N8.xml",
+        "\ub3d9\uc601\uc0c1": "https://www.mediatoday.co.kr/rss/S1N10.xml",
+        "\ubbf8\ub514\uc5b4": "https://www.mediatoday.co.kr/rss/S1N11.xml"
+      }
+    },
+    {
+      "title": "\uc2a4\ud3ec\uce20\uacbd\ud5a5",
+      "nickname": "\uc2a4\ud3ec\uce20\uacbd\ud5a5",
+      "website": "https://sports.khan.co.kr/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uc2a4\ud3ec\uce20"
+      ],
+      "feedlist": "https://www.khan.co.kr/help/help_rss.html",
+      "favicon": "https://www.khan.co.kr/favicon.ico",
+      "channels": {
+        "\uc804\uccb4\ub274\uc2a4": "https://www.khan.co.kr/rss/rssdata/sktotal_news.xml",
+        "\uc2a4\ud3ec\uce20": "https://www.khan.co.kr/rss/rssdata/sksports_news.xml",
+        "\uc5f0\uc608": "https://www.khan.co.kr/rss/rssdata/sk_entertainment.xml",
+        "\uc0dd\ud65c\u00b7\ub808\uc800": "https://www.khan.co.kr/rss/rssdata/skentertain_news.xml"
+      }
+    },
+    {
+      "title": "\uc2a4\ud3ec\uce20\ud55c\uad6d",
+      "nickname": "\uc2a4\ud3ec\uce20\ud55c\uad6d",
+      "website": "http://sports.hankooki.com/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uc2a4\ud3ec\uce20"
+      ],
+      "feedlist": "https://rss.hankooki.com/",
+      "favicon": "http://img.hankooki.com/icon/sports/favicon.ico",
+      "channels": {
+        "\uc804\uccb4": "https://rss.hankooki.com/sports/sp_main.xml",
+        "\uc57c\uad6c": "https://rss.hankooki.com/sports/sp_baseball.xml",
+        "\ucd95\uad6c": "https://rss.hankooki.com/sports/sp_soccer.xml",
+        "\uc2a4\ud3ec\uce20\uc885\ud569": "https://rss.hankooki.com/sports/sp_sports.xml",
+        "\uc5f0\uc608": "https://rss.hankooki.com/sports/sp_entv.xml",
+        "\ub77c\uc774\ud504": "https://rss.hankooki.com/sports/sp_life.xml",
+        "\uc5f0\uc7ac\ubb3c": "https://rss.hankooki.com/sports/sp_series.xml",
+        "\uacbd\uc81c": "https://rss.hankooki.com/sports/sp_economy.xml",
+        "\uc2dc\uc0ac": "https://rss.hankooki.com/sports/sp_sisa.xml",
+        "\ubb38\ud654": "https://rss.hankooki.com/sports/sp_culture.xml"
+      }
+    },
+    {
+      "title": "\uc2dc\uc0acIN",
+      "nickname": "\uc2dc\uc0acIN",
+      "website": "https://www.sisain.co.kr/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uc2dc\uc0ac",
+        "\uc8fc\uac04\uc9c0"
+      ],
+      "feedlist": "https://www.sisain.co.kr/rss.html",
+      "favicon": "https://www.sisain.co.kr/image/logo/favicon.ico",
+      "channels": {
+        "\uc804\uccb4\uae30\uc0ac": "https://www.sisain.co.kr/rss/allArticle.xml",
+        "\uc778\uae30\uae30\uc0ac": "https://www.sisain.co.kr/rss/clickTop.xml",
+        "COVER STORY IN": "https://www.sisain.co.kr/rss/S1N2.xml",
+        "\uc815\uce58": "https://www.sisain.co.kr/rss/S1N6.xml",
+        "\uacbd\uc81c": "https://www.sisain.co.kr/rss/S1N7.xml",
+        "\uc0ac\ud68c": "https://www.sisain.co.kr/rss/S1N8.xml",
+        "\ubb38\ud654": "https://www.sisain.co.kr/rss/S1N9.xml",
+        "\ub77c\uc774\ud504": "https://www.sisain.co.kr/rss/S1N10.xml",
+        "\uad6d\uc81c\u00b7\ud55c\ubc18\ub3c4": "https://www.sisain.co.kr/rss/S1N11.xml",
+        "\uc778\ud130\ubdf0\u00b7\uc624\ud53c\ub2c8\uc5b8": "https://www.sisain.co.kr/rss/S1N12.xml",
+        "\uad50\uc721": "https://www.sisain.co.kr/rss/S1N13.xml",
+        "\ub9cc\ud654": "https://www.sisain.co.kr/rss/S1N14.xml",
+        "\uc0ac\uc9c4": "https://www.sisain.co.kr/rss/S1N15.xml",
+        "English": "https://www.sisain.co.kr/rss/S1N23.xml"
+      }
+    },
+    {
+      "title": "\uc2dc\uc0ac\uc800\ub110",
+      "nickname": "\uc2dc\uc0ac\uc800\ub110",
+      "website": "http://www.sisajournal.com/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uc2dc\uc0ac",
+        "\uc8fc\uac04\uc9c0"
+      ],
+      "feedlist": "https://www.sisajournal.com/rss/",
+      "favicon": "https://www.sisajournal.com/image/logo/favicon.ico",
+      "channels": {
+        "\uc804\uccb4\uae30\uc0ac": "http://www.sisajournal.com/rss/allArticle.xml",
+        "\uc778\uae30\uae30\uc0ac": "http://www.sisajournal.com/rss/clickTop.xml",
+        "\uc0ac\ud68c": "http://www.sisajournal.com/rss/S1N47.xml",
+        "\uacbd\uc81c": "http://www.sisajournal.com/rss/S1N54.xml",
+        "\ud55c\ubc18\ub3c4": "http://www.sisajournal.com/rss/S1N55.xml",
+        "LIFE": "http://www.sisajournal.com/rss/S1N56.xml",
+        "OPINION": "http://www.sisajournal.com/rss/S1N57.xml",
+        "\uc815\uce58": "http://www.sisajournal.com/rss/S1N58.xml",
+        "\uad6d\uc81c": "http://www.sisajournal.com/rss/S1N59.xml",
+        "Health": "http://www.sisajournal.com/rss/S2N106.xml",
+        "Culture": "http://www.sisajournal.com/rss/S2N107.xml"
+      }
+    },
+    {
+      "title": "\uc544\uc774\ub274\uc2a424",
+      "nickname": "\uc544\uc774\ub274\uc2a424",
+      "website": "https://www.inews24.com/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4"
+      ],
+      "feedlist": "https://www.inews24.com/customer/rss/",
+      "favicon": "https://www.inews24.com/favicon.ico",
+      "channels": {
+        "IT": "https://www.inews24.com/rss/news_it.xml",
+        "\uacbd\uc81c": "https://www.inews24.com/rss/news_economy.xml",
+        "\uc815\uce58": "https://www.inews24.com/rss/news_politics.xml",
+        "\uc0ac\ud68c": "https://www.inews24.com/rss/news_society.xml",
+        "\ubb38\ud654": "https://www.inews24.com/rss/news_culture.xml",
+        "\uc0dd\ud65c": "https://www.inews24.com/rss/news_life.xml",
+        "\uc5f0\uc608": "https://www.inews24.com/rss/news_enter.xml",
+        "\uc2a4\ud3ec\uce20": "https://www.inews24.com/rss/news_sports.xml"
+      }
+    },
+    {
+      "title": "\uc5d0\uc774\ube59",
+      "nickname": "\uc5d0\uc774\ube59",
+      "website": "http://www.aving.net",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uc778\ud130\ub137"
+      ],
+      "feedlist": "http://www.aving.net/?page_id=11228",
+      "favicon": "http://kr.aving.net/favicon.ico",
+      "channels": {
+        "\ubaa8\ubc14\uc77c/\ud1b5\uc2e0": "http://www.aving.net/rss/mobile.xml",
+        "\ucef4\ud4e8\ud305": "http://www.aving.net/rss/computing.xml",
+        "\uac00\uc804": "http://www.aving.net/rss/homeappliance.xml",
+        "\ub77c\uc774\ud504": "http://www.aving.net/rss/life.xml",
+        "\ud558\uc6b0\uc9d5": "http://www.aving.net/rss/housing.xml",
+        "\uc790\ub3d9\ucc28": "http://www.aving.net/rss/motor.xml",
+        "\uc601\uc0c1\uc74c\ud5a5": "http://www.aving.net/rss/avpa.xml",
+        "\uc5d0\uc774\ube59\uac78": "http://feeds.feedburner.com/AVING_Girl.xml",
+        "\uc5c5\uacc4\ub3d9\ud5a5": "http://www.aving.net/rss/industry.xml",
+        "English": "http://www.aving.net/rss/english.xml",
+        "Chinese": "http://aving.com.cn/?feed=rss2",
+        "Korean": "http://www.aving.net/rss/korean.xml",
+        "German": "http://www.aving.net/rss/german.xml",
+        "Japanese": "http://www.aving.net/rss/japanese.xml"
+      }
+    },
+    {
+      "title": "\uc624\ub9c8\uc774\ub274\uc2a4",
+      "nickname": "\uc624\ub9c8\uc774",
+      "website": "http://www.ohmynews.com",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4"
+      ],
+      "feedlist": "http://www.ohmynews.com/nws_web/help/srv/h_help_rss.aspx",
+      "favicon": "http://www.ohmynews.com/favicon.ico",
+      "channels": {
+        "\uc804\uccb4\uae30\uc0ac": "http://rss.ohmynews.com/rss/ohmynews.xml",
+        "\uc8fc\uc694\uae30\uc0ac": "http://rss.ohmynews.com/rss/top.xml",
+        "\uc624\ub298\uc758\uc0ac\uc9c4": "http://rss.ohmynews.com/rss/todayphoto.xml",
+        "\uc0ac\ub294\uc774\uc57c\uae30": "http://rss.ohmynews.com/rss/life.xml",
+        "\uc0ac\ud68c": "http://rss.ohmynews.com/rss/society.xml",
+        "\ubb38\ud654": "http://rss.ohmynews.com/rss/culture.xml",
+        "\uc815\uce58": "http://rss.ohmynews.com/rss/politics.xml",
+        "\uacbd\uc81c": "http://rss.ohmynews.com/rss/economy.xml",
+        "\ubbfc\uc871\u00b7\uad6d\uc81c": "http://rss.ohmynews.com/rss/international.xml",
+        "\uad50\uc721": "http://rss.ohmynews.com/rss/education.xml",
+        "\ubbf8\ub514\uc5b4": "http://rss.ohmynews.com/rss/media.xml",
+        "\uc5ec\ud589": "http://rss.ohmynews.com/rss/travel.xml",
+        "\ucc45\ub3d9\ub124": "http://rss.ohmynews.com/rss/book.xml",
+        "\uc5ec\uc131": "http://rss.ohmynews.com/rss/woman.xml",
+        "\uad11\uc8fc\uc804\ub77c": "http://rss.ohmynews.com/rss/jeolla.xml",
+        "\ubd80\uc0b0\uacbd\ub0a8": "http://rss.ohmynews.com/rss/gyeongnam.xml",
+        "\ub300\uc804\ucda9\uccad": "http://rss.ohmynews.com/rss/chungnam.xml",
+        "\uc778\ucc9c\uacbd\uae30": "http://rss.ohmynews.com/rss/gyeonggi.xml",
+        "\ub300\uad6c\uacbd\ubd81": "http://rss.ohmynews.com/rss/kyungbuk.xml",
+        "\uac15\uc6d0\uc81c\uc8fc": "http://rss.ohmynews.com/rss/gangwonjeju.xml",
+        "\ud574\uc678\ub9ac\ud3ec\ud2b8": "http://rss.ohmynews.com/rss/ab_reporter.xml",
+        "\ub9cc\ud654\ub9cc\ud3c9": "http://rss.ohmynews.com/rss/cartoon.xml"
+      }
+    },
+    {
+      "title": "\uc624\ub9c8\uc774\uc2a4\ud0c0",
+      "nickname": "\uc624\ub9c8\uc774\uc2a4\ud0c0",
+      "website": "http://www.ohmynews.com",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uc5f0\uc608"
+      ],
+      "feedlist": "http://www.ohmynews.com/nws_web/help/srv/h_help_rss.aspx",
+      "favicon": "http://www.ohmynews.com/favicon.ico",
+      "channels": {
+        "\uc804\uccb4\uae30\uc0ac": "http://rss.ohmynews.com/rss/star.xml",
+        "\uc8fc\uc694\uae30\uc0ac": "http://rss.ohmynews.com/rss/startop.xml",
+        "\uc2a4\ud3ec\uce20": "http://rss.ohmynews.com/rss/sports.xml"
+      }
+    },
+    {
+      "title": "\uc624\ub9c8\uc774TV",
+      "nickname": "\uc624\ub9c8\uc774TV",
+      "website": "http://www.ohmynews.com",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\ubc29\uc1a1"
+      ],
+      "feedlist": "http://www.ohmynews.com/nws_web/help/srv/h_help_rss.aspx",
+      "favicon": "http://www.ohmynews.com/favicon.ico",
+      "channels": {
+        "\ucd5c\uc9c4\uae30\uc758 \uc778\ubb38\ud559 \ud2b9\uac15": "http://rss.ohmynews.com/rss/podcast_cjk_online_main.xml",
+        "\uc624\ub9c8\uc774\uc2a4\ucfe8 \uc628\ub77c\uc778 \uac15\uc88c": "http://rss.ohmynews.com/rss/podcast_full_online_main.xml",
+        "\uc624\ub9c8\uc774TV \uc800\uc790\uc640\uc758 \ub300\ud654": "http://rss.ohmynews.com/rss/podcast_authortalk_main.xml",
+        "\uc774\uc288 \ud138\uc5b4\uc8fc\ub294 \ub0a8\uc790": "http://rss.ohmynews.com/RSS/podcast_etul_main.xml",
+        "\uc774\ud138\ub0a8 \uc2dc\uc98c3": "http://rss.ohmynews.com/RSS/podcast_etul3_main.xml"
+      }
+    },
+    {
+      "title": "\uc804\uc790\uc2e0\ubb38",
+      "nickname": "\uc804\uc790\uc2e0\ubb38",
+      "website": "https://www.etnews.com",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uc804\uc790"
+      ],
+      "feedlist": "https://www.etnews.com/rss/",
+      "favicon": "https://www.etnews.com/favicon.ico",
+      "channels": {
+        "\uc624\ub298\uc758 \ub274\uc2a4": "http://rss.etnews.com/Section901.xml",
+        "\ub274\uc2a4\uc18d\ubcf4": "http://rss.etnews.com/Section902.xml",
+        "\uc624\ub298\uc758 \uc778\uae30\uae30\uc0ac": "http://rss.etnews.com/Section903.xml",
+        "\uc624\ub298\uc758 \ucd94\ucc9c\uae30\uc0ac": "http://rss.etnews.com/Section904.xml",
+        "\uacbd\uc81c\u00b7\uae08\uc735": "http://rss.etnews.com/02.xml",
+        "\uc99d\uad8c": "http://rss.etnews.com/02021.xml",
+        "\uacbd\uc81c": "http://rss.etnews.com/02024.xml",
+        "\uae08\uc735": "http://rss.etnews.com/02027.xml",
+        "\ud2b9\ud5c8": "http://rss.etnews.com/02022.xml",
+        "\uc804\uc790\u00b7\ubaa8\ube4c\ub9ac\ud2f0": "http://rss.etnews.com/17.xml",
+        "\uc804\uc790\uc0b0\uc5c5": "http://rss.etnews.com/17063.xml",
+        "\ubaa8\ube4c\ub9ac\ud2f0": "http://rss.etnews.com/17066.xml",
+        "\ud1b5\uc2e0\u00b7\ubbf8\ub514\uc5b4\u00b7\uac8c\uc784": "http://rss.etnews.com/03.xml",
+        "\ud1b5\uc2e0": "http://rss.etnews.com/03033.xml",
+        "\ubc29\uc1a1": "http://rss.etnews.com/03025.xml",
+        "\ub124\ud2b8\uc6cc\ud06c": "http://rss.etnews.com/03225.xml",
+        "\uac8c\uc784": "http://rss.etnews.com/03104.xml",
+        "\ucf58\ud150\uce20": "http://rss.etnews.com/03102.xml",
+        "\uc18c\uc7ac\u00b7\ubd80\ud488": "http://rss.etnews.com/06.xml",
+        "\uc18c\uc7ac": "http://rss.etnews.com/06064.xml",
+        "\ubd80\ud488": "http://rss.etnews.com/06062.xml",
+        "\uc7a5\ube44": "http://rss.etnews.com/06061.xml",
+        "SW\u00b7\ubcf4\uc548": "http://rss.etnews.com/04.xml",
+        "SW": "http://rss.etnews.com/04043.xml",
+        "SW\uad50\uc721": "http://rss.etnews.com/04044.xml",
+        "\ubcf4\uc548": "http://rss.etnews.com/04045.xml",
+        "\uc0b0\uc5c5\u00b7\uc5d0\ub108\uc9c0\u00b7\ud658\uacbd": "http://rss.etnews.com/20.xml",
+        "\uacfc\ud559": "http://rss.etnews.com/20020.xml",
+        "\uc5d0\ub108\uc9c0": "http://rss.etnews.com/20065.xml",
+        "\ud50c\ub7ab\ud3fc\u00b7\uc720\ud1b5": "http://rss.etnews.com/60.xml",
+        "\uc720\ud1b5": "http://rss.etnews.com/60068.xml",
+        "\uae30\uc5c5": "http://rss.etnews.com/60028.xml",
+        "\ubca4\ucc98\u00b7\ubc14\uc774\uc624": "http://rss.etnews.com/16.xml",
+        "\uc758\ub8cc\ubc14\uc774\uc624": "http://rss.etnews.com/16042.xml",
+        "\uc911\uae30/\ubca4\ucc98": "http://rss.etnews.com/16069.xml",
+        "\uc815\ucc45/\uc815\uce58/\uad50\uc721": "http://rss.etnews.com/16.xml",
+        "\uc815\ucc45": "http://rss.etnews.com/22210.xml",
+        "\uc815\uce58": "http://rss.etnews.com/22220.xml",
+        "\uad50\uc721": "http://rss.etnews.com/22230.xml",
+        "\uc804\uad6d": "http://rss.etnews.com/25.xml",
+        "\uad6d\uc81c": "http://rss.etnews.com/12.xml",
+        "\uc624\ud53c\ub2c8\uc5b8": "http://rss.etnews.com/11.xml",
+        "\uc5f4\ub9b0\ub9c8\ub2f9": "http://rss.etnews.com/11011.xml"
+      }
+    },
+    {
+      "title": "jtbc \ub274\uc2a4",
+      "nickname": "jtbc",
+      "website": "https://news.jtbc.joins.com",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4"
+      ],
+      "feedlist": "https://news.jtbc.joins.com/Etc/RssService.aspx",
+      "favicon": "https://images.jtbc.joins.com/ui_mobile/app_icon/favicon-32x32.png",
+      "channels": {
+        "\uc18d\ubcf4": "https://fs.jtbc.joins.com/RSS/newsflash.xml",
+        "\uc815\uce58": "https://fs.jtbc.joins.com/RSS/politics.xml",
+        "\uacbd\uc81c": "https://fs.jtbc.joins.com/RSS/economy.xml",
+        "\uc0ac\ud68c": "https://fs.jtbc.joins.com/RSS/society.xml",
+        "\uad6d\uc81c": "https://fs.jtbc.joins.com/RSS/international.xml",
+        "\ubb38\ud654": "https://fs.jtbc.joins.com/RSS/culture.xml",
+        "\uc5f0\uc608": "https://fs.jtbc.joins.com/RSS/entertainment.xml",
+        "\uc2a4\ud3ec\uce20": "https://fs.jtbc.joins.com/RSS/sports.xml",
+        "\ud480\uc601\uc0c1": "https://fs.jtbc.joins.com/RSS/fullvideo.xml",
+        "\ub274\uc2a4\ub7ad\ud0b9": "https://fs.jtbc.joins.com/RSS/newsrank.xml",
+        "\ub274\uc2a4\ub8f8": "https://fs.jtbc.joins.com/RSS/newsroom.xml",
+        "\uc544\uce68&": "https://fs.jtbc.joins.com/RSS/morningand.xml",
+        "\uc370\uc804 \ub77c\uc774\ube0c": "https://fs.jtbc.joins.com/RSS/ssulzunlive.xml",
+        "\uc815\uce58\ubd80\ud68c\uc758": "https://fs.jtbc.joins.com/RSS/politicaldesk.xml"
+      }
+    },
+    {
+      "title": "\uc9c0\ud53c\ucf54\ub9ac\uc544",
+      "nickname": "\uc9c0\ud53c\ucf54\ub9ac\uc544",
+      "website": "http://www.gpkorea.com/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uc790\ub3d9\ucc28"
+      ],
+      "feedlist": "http://www.gpkorea.com/rss/",
+      "favicon": "http://www.gpkorea.com/image/logo/favicon_20180330110946.ico",
+      "channels": {
+        "\uc804\uccb4\uae30\uc0ac": "http://www.gpkorea.com/rss/allArticle.xml",
+        "\uc778\uae30\uae30\uc0ac": "http://www.gpkorea.com/rss/clickTop.xml",
+        "\uc790\ub3d9\ucc28\ub274\uc2a4": "http://www.gpkorea.com/rss/S1N1.xml",
+        "\ubaa8\ud130\uc2a4\ud3ec\uce20": "http://www.gpkorea.com/rss/S1N2.xml",
+        "\ud14c\ub9c8\uae30\ud68d": "http://www.gpkorea.com/rss/S1N3.xml",
+        "\uc2dc\uc2b9\uae30": "http://www.gpkorea.com/rss/S1N4.xml",
+        "\uc601\uc0c1\ub274\uc2a4": "http://www.gpkorea.com/rss/S1N5.xml"
+      }
+    },
+    {
+      "title": "\ud30c\uc774\ub0b8\uc15c \ub274\uc2a4",
+      "nickname": "\ud30c\uc774\ub0b8\uc15c",
+      "website": "https://www.fnnews.com",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uacbd\uc81c"
+      ],
+      "feedlist": "https://www.fnnews.com/rss",
+      "favicon": "https://www.fnnews.com/resources/images/icon2020/favicon_16x16_j4i_icon.ico",
+      "channels": {
+        "\uc804\uccb4\uae30\uc0ac": "https://www.fnnews.com/rss/r20/fn_realnews_all.xml",
+        "\uc815\uce58": "https://www.fnnews.com/rss/r20/fn_realnews_politics.xml",
+        "\uad6d\uc81c": "https://www.fnnews.com/rss/r20/fn_realnews_international.xml",
+        "\uc0ac\ud68c": "https://www.fnnews.com/rss/r20/fn_realnews_society.xml",
+        "\uad50\uc721": "https://www.fnnews.com/rss/r20/fn_realnews_edu.xml",
+        "\ud53c\ud50c": "https://www.fnnews.com/rss/r20/fn_realnews_people.xml",
+        "\uacbd\uc81c": "https://www.fnnews.com/rss/r20/fn_realnews_economy.xml",
+        "\uc99d\uad8c": "https://www.fnnews.com/rss/r20/fn_realnews_stock.xml",
+        "\uae08\uc735": "https://www.fnnews.com/rss/r20/fn_realnews_finance.xml",
+        "\ubd80\ub3d9\uc0b0": "https://www.fnnews.com/rss/r20/fn_realnews_realestate.xml",
+        "\uc0b0\uc5c5": "https://www.fnnews.com/rss/r20/fn_realnews_industry.xml",
+        "IT": "https://www.fnnews.com/rss/r20/fn_realnews_it.xml",
+        "\uc758\ud559\u00b7\uacfc\ud559": "https://www.fnnews.com/rss/r20/fn_realnews_medical.xml",
+        "\uc0dd\ud65c\uacbd\uc81c": "https://www.fnnews.com/rss/r20/fn_realnews_circulation.xml",
+        "\uc0ac\uc124\u00b7\uce7c\ub7fc": "https://www.fnnews.com/rss/r20/fn_realnews_column.xml",
+        "\uc678\ubd80\uce7c\ub7fc": "https://www.fnnews.com/rss/r20/fn_realnews_outcolumn.xml",
+        "\uc5f0\uc608": "https://www.fnnews.com/rss/r20/fn_realnews_ent.xml",
+        "\uc2a4\ud3ec\uce20": "https://www.fnnews.com/rss/r20/fn_realnews_sports.xml'",
+        "\ud328\uc158/\ubdf0\ud2f0": "https://www.fnnews.com/rss/r20/fn_realnews_fasion.xml",
+        "\ud478\ub4dc\u00b7\ub9ac\ube59": "https://www.fnnews.com/rss/r20/fn_realnews_living.xml",
+        "\ub808\uc800\u00b7\ud5ec\uc2a4": "https://www.fnnews.com/rss/r20/fn_realnews_health.xml",
+        "\uc790\ub3d9\ucc28": "https://www.fnnews.com/rss/r20/fn_realnews_car.xml",
+        "\ubb38\ud654": "https://www.fnnews.com/rss/r20/fn_realnews_culture.xml",
+        "\ube14\ub85d\ud3ec\uc2a4\ud2b8": "https://www.fnnews.com/rss/r20/fn_realnews_blockpost.xml"
+      }
+    },
+    {
+      "title": "\ud504\ub808\uc2dc\uc548",
+      "nickname": "\ud504\ub808\uc2dc\uc548",
+      "website": "https://www.pressian.com/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4"
+      ],
+      "feedlist": "https://www.pressian.com/rss",
+      "favicon": "https://cdn.pressian.com/pressian.ico",
+      "channels": {
+        "\ucd5c\uc2e0 \uae30\uc0ac": "http://www.pressian.com/api/v3/site/rss/news",
+        "\ub274\uc2a4": "http://www.pressian.com/api/v3/site/rss/section/25",
+        "books": "http://www.pressian.com/api/v3/site/rss/section/60",
+        "\uc138\uacc4": "http://www.pressian.com/api/v3/site/rss/section/65",
+        "\uc815\uce58": "http://www.pressian.com/api/v3/site/rss/section/66",
+        "\uacbd\uc81c": "http://www.pressian.com/api/v3/site/rss/section/67",
+        "\uc0ac\ud68c": "http://www.pressian.com/api/v3/site/rss/section/68",
+        "\ubb38\ud654": "http://www.pressian.com/api/v3/site/rss/section/69",
+        "\uc2a4\ud3ec\uce20": "http://www.pressian.com/api/v3/site/rss/section/70",
+        "\ubbf8\ub514\uc5b4": "http://www.pressian.com/api/v3/site/rss/section/75"
+      }
+    },
+    {
+      "title": "\ud55c\uad6d\uacbd\uc81c\uc2e0\ubb38",
+      "nickname": "\ud55c\uacbd",
+      "website": "https://hankyung.com/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uacbd\uc81c"
+      ],
+      "feedlist": "https://rss.hankyung.com/",
+      "favicon": "https://hankyung.com/favicon.ico",
+      "channels": {
+        "\uc8fc\uc694\ub274\uc2a4": "https://rss.hankyung.com/feed/headline.xml",
+        "\uacbd\uc81c": "https://rss.hankyung.com/feed/economy.xml",
+        "IT": "https://rss.hankyung.com/feed/it.xml",
+        "\uad6d\uc81c": "https://rss.hankyung.com/feed/international.xml",
+        "\uc0dd\ud65c": "https://rss.hankyung.com/feed/life.xml",
+        "\uc2a4\ud3ec\uce20": "https://rss.hankyung.com/feed/sports.xml",
+        "\uc99d\uad8c": "https://rss.hankyung.com/feed/stock.xml",
+        "\ubd80\ub3d9\uc0b0": "https://rss.hankyung.com/feed/land.xml",
+        "\uc815\uce58": "https://rss.hankyung.com/feed/politics.xml",
+        "\uc0ac\ud68c": "https://rss.hankyung.com/feed/society.xml",
+        "\uc624\ud53c\ub2c8\uc5b8": "https://rss.hankyung.com/feed/opinion.xml",
+        "\uc5f0\uc608": "https://rss.hankyung.com/feed/hei.xml"
+      }
+    },
+    {
+      "title": "\ud55c\uaca8\ub808",
+      "nickname": "\ud55c\uaca8\ub808",
+      "website": "https://www.hani.co.kr/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4"
+      ],
+      "feedlist": "https://www.hani.co.kr/arti/RSS/",
+      "favicon": "https://www.hani.co.kr/favicon.ico",
+      "channels": {
+        "\uc804\uccb4\uae30\uc0ac": "https://www.hani.co.kr/rss/",
+        "\uc815\uce58": "https://www.hani.co.kr/rss/politics/",
+        "\uacbd\uc81c": "https://www.hani.co.kr/rss/economy/",
+        "\uc0ac\ud68c": "https://www.hani.co.kr/rss/society/",
+        "\uad6d\uc81c": "https://www.hani.co.kr/rss/international/",
+        "\ub300\uc911\ubb38\ud654": "https://www.hani.co.kr/rss/culture/",
+        "\uc2a4\ud3ec\uce20": "https://www.hani.co.kr/rss/sports/",
+        "\uacfc\ud559": "https://www.hani.co.kr/rss/science/",
+        "\uc0ac\uc124\u00b7\uce7c\ub7fc": "https://www.hani.co.kr/rss/opinion/",
+        "\ub9cc\ud654\ub9cc\ud3c9": "https://www.hani.co.kr/rss/cartoon/",
+        "English Edition": "https://www.hani.co.kr/rss/english_edition/",
+        "\ud55c\uaca8\ub808\uc139\uc158": "https://www.hani.co.kr/rss/specialsection/",
+        "\ud568\uaed8\ud558\ub294 \uad50\uc721": "https://www.hani.co.kr/rss/education/",
+        "\ud1a0\uc694\ud310": "https://www.hani.co.kr/rss/saturday/",
+        "\ud558\ub2c8\uc628\ub9ac": "https://www.hani.co.kr/rss/hanionly/",
+        "\ud55c\uaca8\ub808\uc628\ub9ac": "https://www.hani.co.kr/rss/hkronly/",
+        "\uba40\ud2f0\ud558\ub2c8": "https://www.hani.co.kr/rss/multihani/",
+        "\uc8fc\uc694\uae30\uc0ac": "https://www.hani.co.kr/rss/lead/",
+        "\uc778\uae30\uae30\uc0ac": "https://www.hani.co.kr/rss/newsrank/"
+      }
+    },
+    {
+      "title": "\ud55c\uaca8\ub80821",
+      "nickname": "\ud55c\uaca8\ub80821",
+      "website": "http://h21.hani.co.kr/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uc2dc\uc0ac",
+        "\uc8fc\uac04\uc9c0"
+      ],
+      "feedlist": "https://h21.hani.co.kr/arti/RSS",
+      "favicon": "https://h21.hani.co.kr/favicon.ico",
+      "channels": {
+        "\uc804\uccb4\uae30\uc0ac": "https://h21.hani.co.kr/rss/",
+        "\ud45c\uc9c0\uc774\uc57c\uae30": "https://h21.hani.co.kr/rss/cover/",
+        "\ud2b9\uc9d1": "https://h21.hani.co.kr/rss/special/",
+        "\uc815\uce58": "https://h21.hani.co.kr/rss/politics/",
+        "\uacbd\uc81c": "https://h21.hani.co.kr/rss/economy/",
+        "\uc0ac\ud68c": "https://h21.hani.co.kr/rss/society/",
+        "\uc138\uacc4": "https://h21.hani.co.kr/rss/world/",
+        "\ubb38\ud654": "https://h21.hani.co.kr/rss/culture/",
+        "\uba40\ud2f0\ubbf8\ub514\uc5b4": "https://h21.hani.co.kr/rss/photo/",
+        "\ucee4\ubba4\ub2c8\ud2f0": "https://h21.hani.co.kr/rss/reader/"
+      }
+    },
+    {
+      "title": "\uad50\ubcf4\ubb38\uace0 \ubd81\ub274\uc2a4",
+      "nickname": "\uad50\ubcf4\ubb38\uace0",
+      "website": "http://news.kyobobook.co.kr/main.ink",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\uc11c\uc810"
+      ],
+      "feedlist": "http://news.kyobobook.co.kr/RSS.ink",
+      "favicon": "https://www.kyobobook.co.kr/favicon.ico",
+      "channels": {
+        "\ub274\uc2a4\uc804\uccb4": "http://news.kyobobook.co.kr/rssv2/booknews_all_rss.xml",
+        "\uc624\ub298\ub274\uc2a4": "http://news.kyobobook.co.kr/rssv2/todaynews_rss.xml",
+        "\ub208\uc5d0 \ub744\ub294 \ucc45": "http://news.kyobobook.co.kr/rssv2/eyebook_rss.xml",
+        "\uae30\ud68d\ud2b9\uc9d1": "http://news.kyobobook.co.kr/rssv2/specialplus_rss.xml",
+        "\uc778\ud130\ubdf0": "http://news.kyobobook.co.kr/rssv2/interview_rss.xml",
+        "\uc5f0\uc7ac:\uae30\uc0ac \uc804\uccb4": "http://news.kyobobook.co.kr/rssv2/publish_rss.xml",
+        "\uc5f0\uc7ac:\uc6f9\ud230": "http://news.kyobobook.co.kr/rssv2/publish_webtoon_rss.xml",
+        "\uc5f0\uc7ac:\uce7c\ub7fc": "http://news.kyobobook.co.kr/rssv2/publish_opencolumnlist_rss.xml",
+        "\uc5f0\uc7ac:READ IT": "http://news.kyobobook.co.kr/rssv2/publish_readit_rss.xml",
+        "\uc5f0\uc7ac:\ubd81\ucc57": "http://news.kyobobook.co.kr/rssv2/publish_bookchat_rss.xml",
+        "\ubd81TV:\uae30\uc0ac \uc804\uccb4": "http://news.kyobobook.co.kr/rssv2/booktv_rss.xml",
+        "\ubd81TV:\ubd81\uce90\uc2a4\ud2b8": "http://news.kyobobook.co.kr/rssv2/booktv_welcomeshow_rss.xml",
+        "\ubd81TV:\ubd81\ud29c\ubc84": "http://news.kyobobook.co.kr/rssv2/booktv_booktube_rss.xml",
+        "\ubd81TV:\uc601\uc0c1\uc2a4\ucf00\uce58": "http://news.kyobobook.co.kr/rssv2/booktv_sketch_rss.xml",
+        "\uc5f0\uc7ac\uc885\ub8cc:\uae30\uc0ac \uc804\uccb4": "http://news.kyobobook.co.kr/rssv2/publishend_rss.xml",
+        "\uc5f0\uc7ac\uc885\ub8cc:\ucc45\uc0c1\uc790": "http://news.kyobobook.co.kr/rssv2/booktv_bookbox_rss.xml",
+        "\uc5f0\uc7ac\uc885\ub8cc:\ubca0\uc2a4\ud2b8\uc140\ub7ec": "http://news.kyobobook.co.kr/rssv2/booktv_bestseller_rss.xml",
+        "\uc5f0\uc7ac\uc885\ub8cc:\ubd81\ud2b8\ub808\uc77c\ub7ec": "http://news.kyobobook.co.kr/rssv2/booktv_booktrailer_rss.xml",
+        "\uc5f0\uc7ac\uc885\ub8cc:\ubd81\ud1a0\ub9ac\uc5b8": "http://news.kyobobook.co.kr/rssv2/publish_booktorianlist_rss.xml",
+        "\uc5f0\uc7ac\uc885\ub8cc:\uc18c\uc124": "http://news.kyobobook.co.kr/rssv2/publish_novel_rss.xml"
+      }
+    },
+    {
+      "title": "Reddit",
+      "nickname": "Reddit",
+      "website": "https://www.reddit.com/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\uc18c\uc15c",
+        "\ucee4\ubba4\ub2c8\ud2f0"
+      ],
+      "feedlist": "https://www.reddit.com/wiki/rss",
+      "favicon": "https://www.reddit.com/favicon.ico",
+      "channels": {
+        "r/hanguk": "https://www.reddit.com/r/hanguk/.rss",
+        "r/KoreaRealism": "https://www.reddit.com/r/KoreaRealism/.rss",
+        "r/funny": "https://www.reddit.com/r/funny/.rss",
+        "r/aww": "https://www.reddit.com/r/aww/.rss",
+        "r/pics": "https://www.reddit.com/r/pics/.rss",
+        "r/science": "https://www.reddit.com/r/science/.rss",
+        "r/worldnews": "https://www.reddit.com/r/worldnews/.rss",
+        "r/news": "https://www.reddit.com/r/news/.rss",
+        "r/videos": "https://www.reddit.com/r/videos/.rss",
+        "r/IAmA": "https://www.reddit.com/r/IAmA/.rss",
+        "r/todayilearned": "https://www.reddit.com/r/todayilearned/.rss",
+        "r/atheism": "https://www.reddit.com/r/atheism/.rss",
+        "r/technology": "https://www.reddit.com/r/technology/.rss",
+        "r/AdviceAnimals": "https://www.reddit.com/r/AdviceAnimals/.rss",
+        "r/Music": "https://www.reddit.com/r/Music/.rss",
+        "r/movies": "https://www.reddit.com/r/movies/.rss",
+        "r/bestof": "https://www.reddit.com/r/bestof/.rss",
+        "r/trees": "https://www.reddit.com/r/trees/.rss",
+        "r/gifs": "https://www.reddit.com/r/gifs/.rss",
+        "r/reactiongifs": "https://www.reddit.com/r/reactiongifs/.rss",
+        "r/mildlyinteresting": "https://www.reddit.com/r/mildlyinteresting/.rss",
+        "r/fffffffuuuuuuuuuuuu": "https://www.reddit.com/r/fffffffuuuuuuuuuuuu/.rss",
+        "r/woahdude": "https://www.reddit.com/r/woahdude/.rss",
+        "r/arresteddevelopment": "https://www.reddit.com/r/arresteddevelopment/.rss",
+        "r/gameofthrones": "https://www.reddit.com/r/gameofthrones/.rss",
+        "r/cats": "https://www.reddit.com/r/cats/.rss",
+        "r/doctorwho": "https://www.reddit.com/r/doctorwho/.rss",
+        "r/MURICA": "https://www.reddit.com/r/MURICA/.rss",
+        "r/firstworldanarchists": "https://www.reddit.com/r/firstworldanarchists/.rss"
+      }
+    },
+    {
+      "title": "\ubaa8\ud130\uadf8\ub798\ud504",
+      "nickname": "\ubaa8\ud130\uadf8\ub798\ud504",
+      "website": "https://www.motorgraph.com/",
+      "description": "",
+      "language": "korean",
+      "keywords": [
+        "\ub274\uc2a4",
+        "\uc790\ub3d9\ucc28",
+        "\uc2dc\uc2b9\uae30"
+      ],
+      "feedlist": "https://www.motorgraph.com/rss/",
+      "favicon": "https://www.motorgraph.com/image/logo/favicon_20180420032255.ico",
+      "channels": {
+        "\uc804\uccb4\uae30\uc0ac": "https://www.motorgraph.com/rss/allArticle.xml",
+        "\uc778\uae30\uae30\uc0ac": "https://www.motorgraph.com/rss/clickTop.xml",
+        "\uc2e0\ucc28": "https://www.motorgraph.com/rss/S1N1.xml",
+        "\uc5c5\uacc4\u00b7\uc815\ucc45": "https://www.motorgraph.com/rss/S1N2.xml",
+        "\uce7c\ub7fc\u00b7\ubd84\uc11d": "https://www.motorgraph.com/rss/S1N3.xml",
+        "\uc2dc\uc2b9\uae30\u00b7\ub9ac\ubdf0": "https://www.motorgraph.com/rss/S1N4.xml",
+        "\uacb0\ud568\u00b7\ubb38\uc81c\uc810": "https://www.motorgraph.com/rss/S1N5.xml",
+        "\ub77c\uc774\ud504": "https://www.motorgraph.com/rss/S1N6.xml",
+        "\ubaa8\ud130\uc1fc": "https://www.motorgraph.com/rss/S1N7.xml",
+        "\uc5c5\uacc4\uc758 \uc18c\ub9ac": "https://www.motorgraph.com/rss/S1N8.xml"
+      }
+    },
+    {
+      "title": "BBC News",
+      "nickname": "BBC",
+      "website": "https://bbc.co.uk/news",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "uk",
+        "public"
+      ],
+      "feedlist": "https://www.bbc.co.uk/news/10628494",
+      "favicon": "https://bbc.co.uk/favicon.ico",
+      "channels": {
+        "Top Stories": "http://feeds.bbci.co.uk/news/rss.xml",
+        "World": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+        "Business": "http://feeds.bbci.co.uk/news/business/rss.xml",
+        "Politics": "http://feeds.bbci.co.uk/news/politics/rss.xml",
+        "Health": "http://feeds.bbci.co.uk/news/health/rss.xml",
+        "Education & Family": "http://feeds.bbci.co.uk/news/education/rss.xml",
+        "Science & Environment": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "Technology": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+        "Entertainment & Arts": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "Africa": "http://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "Asia": "http://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "Europe": "http://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "Latin America": "http://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "Middle East": "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "US & Canada": "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "England": "http://feeds.bbci.co.uk/news/england/rss.xml",
+        "Northern Ireland": "http://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "Scotland": "http://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "Wales": "http://feeds.bbci.co.uk/news/wales/rss.xml",
+        "Latest published stories": "http://feeds.bbci.co.uk/news/system/latest_published_content/rss.xml",
+        "Magazine": "http://feeds.bbci.co.uk/news/magazine/rss.xml",
+        "Also in the news": "http://feeds.bbci.co.uk/news/also_in_the_news/rss.xml",
+        "In Pictures": "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_pictures/rss.xml",
+        "Special Reports": "http://feeds.bbci.co.uk/news/special_reports/rss.xml",
+        "Have your say": "http://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "Editors Blog": "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "BBC Sport feeds": "https://news.bbc.co.uk/sport1/hi/help/rss/default.stm"
+      }
+    },
+    {
+      "title": "CBC News",
+      "nickname": "CBC",
+      "website": "https://www.cbc.ca",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "canada",
+        "public"
+      ],
+      "feedlist": "https://www.cbc.ca/rss/",
+      "favicon": "https://www.cbc.ca/favicon.ico",
+      "channels": {
+        "Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+        "World": "https://rss.cbc.ca/lineup/world.xml",
+        "Canada": "https://rss.cbc.ca/lineup/canada.xml",
+        "Politics": "https://rss.cbc.ca/lineup/politics.xml",
+        "Business": "https://rss.cbc.ca/lineup/business.xml",
+        "Health": "https://rss.cbc.ca/lineup/health.xml",
+        "Arts & Entertainment": "https://rss.cbc.ca/lineup/arts.xml",
+        "Technology & Science": "https://rss.cbc.ca/lineup/technology.xml",
+        "Offbeat": "https://rss.cbc.ca/lineup/offbeat.xml",
+        "Indigenous": "https://www.cbc.ca/cmlink/rss-Indigenous",
+        "Sports": "https://rss.cbc.ca/lineup/sports.xml",
+        "MLB": "https://rss.cbc.ca/lineup/sports-mlb.xml",
+        "NBA": "https://rss.cbc.ca/lineup/sports-nba.xml",
+        "Curling": "https://rss.cbc.ca/lineup/sports-curling.xml",
+        "CFL": "https://rss.cbc.ca/lineup/sports-cfl.xml",
+        "NFL": "https://rss.cbc.ca/lineup/sports-nfl.xml",
+        "NHL": "https://rss.cbc.ca/lineup/sports-nhl.xml",
+        "Soccer": "https://rss.cbc.ca/lineup/sports-soccer.xml",
+        "The National - In Depth Reports": "https://rss.cbc.ca/lineup/thenational.xml",
+        "British Columbia": "https://rss.cbc.ca/lineup/canada-britishcolumbia.xml",
+        "Calgary": "https://rss.cbc.ca/lineup/canada-calgary.xml",
+        "Edmonton": "https://rss.cbc.ca/lineup/canada-edmonton.xml",
+        "Hamilton": "https://rss.cbc.ca/lineup/canada-hamiltonnews.xml",
+        "Kamloops": "https://rss.cbc.ca/lineup/canada-kamloops.xml",
+        "Kitchener-Waterloo": "https://rss.cbc.ca/lineup/canada-kitchenerwaterloo.xml",
+        "London": "https://www.cbc.ca/cmlink/rss-canada-london",
+        "Manitoba": "https://rss.cbc.ca/lineup/canada-manitoba.xml",
+        "Montreal": "https://rss.cbc.ca/lineup/canada-montreal.xml",
+        "New Brunswick": "https://rss.cbc.ca/lineup/canada-newbrunswick.xml",
+        "Newfoundland & Labrador": "https://rss.cbc.ca/lineup/canada-newfoundland.xml",
+        "North": "https://rss.cbc.ca/lineup/canada-north.xml",
+        "Nova Scotia": "https://rss.cbc.ca/lineup/canada-novascotia.xml",
+        "Ottawa": "https://www.cbc.ca/cmlink/rss-canada-ottawa",
+        "Prince Edward Island": "https://rss.cbc.ca/lineup/canada-pei.xml",
+        "Saskatchewan": "https://rss.cbc.ca/lineup/canada-saskatchewan.xml",
+        "Saskatoon": "https://rss.cbc.ca/lineup/canada-saskatoon.xml",
+        "Sudbury": "https://rss.cbc.ca/lineup/canada-sudbury.xml",
+        "Thunder Bay": "https://rss.cbc.ca/lineup/canada-thunderbay.xml",
+        "Windsor": "https://rss.cbc.ca/lineup/canada-windsor.xml",
+        "Toronto": "https://rss.cbc.ca/lineup/canada-toronto.xml"
+      }
+    },
+    {
+      "title": "PBS NewsHour",
+      "nickname": "PBS",
+      "website": "https://www.pbs.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "usa",
+        "public"
+      ],
+      "feedlist": "https://www.pbs.org/newshour/subscribe#rss-feeds",
+      "favicon": "https://www.pbs.org/favicon.ico",
+      "channels": {
+        "The Latest": "https://www.pbs.org/newshour/feeds/rss/headlines",
+        "Politics": "https://www.pbs.org/newshour/feeds/rss/politics",
+        "Arts": "https://www.pbs.org/newshour/feeds/rss/arts",
+        "Nation": "https://www.pbs.org/newshour/feeds/rss/nation",
+        "World": "https://www.pbs.org/newshour/feeds/rss/world",
+        "Economy": "https://www.pbs.org/newshour/feeds/rss/economy",
+        "Science": "https://www.pbs.org/newshour/feeds/rss/science",
+        "Health": "https://www.pbs.org/newshour/feeds/rss/health",
+        "Education": "https://www.pbs.org/newshour/feeds/rss/education",
+        "Agents for Change": "https://www.pbs.org/newshour/feeds/rss/agents-for-change",
+        "American Graduate": "https://www.pbs.org/newshour/feeds/rss/american-graduate"
+      }
+    },
+    {
+      "title": "Guardian, The",
+      "nickname": "Guardian",
+      "website": "https://www.theguardian.com",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "uk"
+      ],
+      "feedlist": "https://www.theguardian.com/help/feeds",
+      "favicon": "https://www.theguardian.com/favicon.ico",
+      "channels": {
+        "World": "https://www.theguardian.com/world/rss",
+        "Europe": "https://www.theguardian.com/world/europe-news/rss",
+        "US": "https://www.theguardian.com/us-news/rss",
+        "Americas": "https://www.theguardian.com/world/americas/rss",
+        "Asia": "https://www.theguardian.com/world/asia/rss",
+        "Australia": "https://www.theguardian.com/australia-news/rss",
+        "Middle East": "https://www.theguardian.com/world/middleeast/rss",
+        "Africa": "https://www.theguardian.com/world/africa/rss",
+        "Inequality": "https://www.theguardian.com/inequality/rss",
+        "Glolbal Development": "https://www.theguardian.com/global-development/rss"
+      }
+    },
+    {
+      "title": "Nature",
+      "nickname": "Nature",
+      "website": "https://www.nature.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science"
+      ],
+      "feedlist": "https://www.nature.com/",
+      "favicon": "https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png",
+      "channels": {
+        "All Articles": "https://www.nature.com/nature.rss"
+      }
+    },
+    {
+      "title": "PLOS",
+      "nickname": "PLOS",
+      "website": "https://plos.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science"
+      ],
+      "feedlist": "https://journals.plos.org/ploscompbiol/s/find-and-read-articles#loc-new-articles-by-rss",
+      "favicon": "https://plos.org/wp-content/themes/plos/favicon/favicon-32x32.png",
+      "channels": {
+        "Biology": "https://journals.plos.org/plosbiology/feed/atom",
+        "Climate": "https://journals.plos.org/climate/feed/atom",
+        "Computational Biology": "https://journals.plos.org/ploscompbiol/feed/atom",
+        "Digital Health": "https://journals.plos.org/digitalhealth/feed/atom",
+        "Genetics": "https://journals.plos.org/plosgenetics/feed/atom",
+        "Global Public Health": "https://journals.plos.org/globalpublichealth/feed/atom",
+        "Medicine": "https://journals.plos.org/plosmedicine/feed/atom",
+        "Neglected Tropical Diseases": "https://journals.plos.org/plosntds/feed/atom",
+        "ONE": "https://journals.plos.org/plosone/feed/atom",
+        "Pathogens": "https://journals.plos.org/plospathogens/feed/atom",
+        "Sustainability and Transformation": "https://journals.plos.org/sustainabilitytransformation/feed/atom",
+        "Water": "https://journals.plos.org/water/feed/atom",
+        "Blog": "https://theplosblog.plos.org/feed/"
+      }
+    },
+    {
+      "title": "Phys.org",
+      "nickname": "Phys",
+      "website": "https://phys.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science",
+        "physics"
+      ],
+      "feedlist": "https://phys.org/feeds/",
+      "favicon": "https://phys.org/favicon.ico",
+      "channels": {
+        "All News": "https://phys.org/rss-feed/",
+        "Earth": "https://phys.org/rss-feed/earth-news/",
+        "Other Sciences": "https://phys.org/rss-feed/science-news/",
+        "Nanotechnology": "https://phys.org/rss-feed/nanotech-news/",
+        "Physics": "https://phys.org/rss-feed/physics-news/",
+        "Astronomy & Space": "https://phys.org/rss-feed/space-news/",
+        "Biology": "https://phys.org/rss-feed/biology-news/",
+        "Chemistry": "https://phys.org/rss-feed/chemistry-news/"
+      }
+    },
+    {
+      "title": "MagPi Magazine",
+      "nickname": "MagPi",
+      "website": "https://magpi.raspberrypi.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine",
+        "hobby"
+      ],
+      "feedlist": "https://magpi.raspberrypi.com/feed",
+      "favicon": "https://magpi.raspberrypi.com/assets/magpi/favicon-2078abe5477dfeb7a273e1826d821a28a4e988fe.png",
+      "channels": {
+        "All articles": "https://magpi.raspberrypi.com/feed"
+      }
+    },
+    {
+      "title": "Liliputing",
+      "nickname": "Liliputing",
+      "website": "https://liliputing.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine",
+        "hobby"
+      ],
+      "feedlist": "https://liliputing.com/feed/",
+      "favicon": "https://liliputing.com/wp-content/uploads/2020/02/cropped-lp_icon_1024-e1582423214846-32x32.png",
+      "channels": {
+        "All articles": "https://liliputing.com/feed/"
+      }
+    },
+    {
+      "title": "CNX - Software",
+      "nickname": "CNX",
+      "website": "https://www.cnx-software.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine",
+        "hobby"
+      ],
+      "feedlist": "https://www.cnx-software.com/feed/",
+      "favicon": "https://cdn.cnx-software.com/wp-content/uploads/2021/04/cropped-CNX-Software-Square-Logo-Light-Grey-1.png?lossy=1&resize=32%2C32&ssl=1",
+      "channels": {
+        "All articles": "https://www.cnx-software.com/feed/"
+      }
+    },
+    {
+      "title": "Hacker News",
+      "nickname": "Hacker",
+      "website": "https://news.ycombinator.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "it"
+      ],
+      "feedlist": "https://hnrss.github.io/",
+      "favicon": "https://news.ycombinator.com/favicon.ico",
+      "channels": {
+        "Newest": "https://hnrss.org/newest"
+      }
+    },
+    {
+      "title": "NASA",
+      "nickname": "NASA",
+      "website": "https://www.nasa.gov/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "science"
+      ],
+      "feedlist": "https://www.nasa.gov/content/nasa-rss-feeds",
+      "favicon": "https://www.nasa.gov/favicon.ico",
+      "channels": {
+        "Breaking News": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+        "Education News": "https://www.nasa.gov/rss/dyn/educationnews.rss",
+        "Image of the Day": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "ISS Report": "http://blogs.nasa.gov/stationreport/feed/",
+        "On the Station": "https://www.nasa.gov/rss/dyn/onthestation_rss.rss",
+        "Kepler Mission": "https://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss",
+        "Chandra Mission": "http://www.nasa.gov/rss/dyn/chandra_images.rss",
+        "Space Station": "https://www.nasa.gov/rss/dyn/shuttle_station.rss",
+        "Solar System and Beyond": "https://www.nasa.gov/rss/dyn/solar_system.rss",
+        "Earth": "https://www.nasa.gov/rss/dyn/earth.rss",
+        "Aeronautics": "https://www.nasa.gov/rss/dyn/aeronautics.rss",
+        "Hurricane Update": "https://www.nasa.gov/rss/dyn/hurricaneupdate.rss"
+      }
+    },
+    {
+      "title": "Wikipedia",
+      "nickname": "Wikipedia",
+      "website": "https://en.wikipedia.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "wiki"
+      ],
+      "feedlist": "https://feedly.helpscoutdocs.com/article/361-how-to-follow-wikipedia-feeds",
+      "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+      "channels": {
+        "New Articles": "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
+        "Featured": "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom"
+      }
+    },
+    {
+      "title": "XDA Developers",
+      "nickname": "XDA",
+      "website": "https://en.wikipedia.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine"
+      ],
+      "feedlist": "https://www.xda-developers.com/feed/",
+      "favicon": "https://www.xda-developers.com/favicon.ico",
+      "channels": {
+        "All Articles": "https://www.xda-developers.com/feed/"
+      }
+    }
+  ]
+}

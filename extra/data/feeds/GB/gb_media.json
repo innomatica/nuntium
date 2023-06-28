@@ -1,0 +1,75 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "BBC News",
+            "nickname": "BBC",
+            "website": "https://bbc.co.uk/news",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "uk",
+                "public"
+            ],
+            "feedlist": "https://www.bbc.co.uk/news/10628494",
+            "favicon": "https://bbc.co.uk/favicon.ico",
+            "channels": {
+                "Top Stories": "http://feeds.bbci.co.uk/news/rss.xml",
+                "World": "http://feeds.bbci.co.uk/news/world/rss.xml",
+                "UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+                "Business": "http://feeds.bbci.co.uk/news/business/rss.xml",
+                "Politics": "http://feeds.bbci.co.uk/news/politics/rss.xml",
+                "Health": "http://feeds.bbci.co.uk/news/health/rss.xml",
+                "Education & Family": "http://feeds.bbci.co.uk/news/education/rss.xml",
+                "Science & Environment": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+                "Technology": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+                "Entertainment & Arts": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+                "Africa": "http://feeds.bbci.co.uk/news/world/africa/rss.xml",
+                "Asia": "http://feeds.bbci.co.uk/news/world/asia/rss.xml",
+                "Europe": "http://feeds.bbci.co.uk/news/world/europe/rss.xml",
+                "Latin America": "http://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+                "Middle East": "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+                "US & Canada": "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+                "England": "http://feeds.bbci.co.uk/news/england/rss.xml",
+                "Northern Ireland": "http://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+                "Scotland": "http://feeds.bbci.co.uk/news/scotland/rss.xml",
+                "Wales": "http://feeds.bbci.co.uk/news/wales/rss.xml",
+                "Latest published stories": "http://feeds.bbci.co.uk/news/system/latest_published_content/rss.xml",
+                "Magazine": "http://feeds.bbci.co.uk/news/magazine/rss.xml",
+                "Also in the news": "http://feeds.bbci.co.uk/news/also_in_the_news/rss.xml",
+                "In Pictures": "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_pictures/rss.xml",
+                "Special Reports": "http://feeds.bbci.co.uk/news/special_reports/rss.xml",
+                "Have your say": "http://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+                "Editors Blog": "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+                "BBC Sport feeds": "https://news.bbc.co.uk/sport1/hi/help/rss/default.stm"
+            }
+        },
+        {
+            "title": "Guardian, The",
+            "nickname": "Guardian",
+            "website": "https://www.theguardian.com",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "uk"
+            ],
+            "feedlist": "https://www.theguardian.com/help/feeds",
+            "favicon": "https://www.theguardian.com/favicon.ico",
+            "channels": {
+                "World": "https://www.theguardian.com/world/rss",
+                "Europe": "https://www.theguardian.com/world/europe-news/rss",
+                "US": "https://www.theguardian.com/us-news/rss",
+                "Americas": "https://www.theguardian.com/world/americas/rss",
+                "Asia": "https://www.theguardian.com/world/asia/rss",
+                "Australia": "https://www.theguardian.com/australia-news/rss",
+                "Middle East": "https://www.theguardian.com/world/middleeast/rss",
+                "Africa": "https://www.theguardian.com/world/africa/rss",
+                "Inequality": "https://www.theguardian.com/inequality/rss",
+                "Glolbal Development": "https://www.theguardian.com/global-development/rss"
+            }
+        }
+    ]
+}

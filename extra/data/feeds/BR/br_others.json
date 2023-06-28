@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "Reddit",
+            "nickname": "Reddit",
+            "website": "https://www.reddit.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "community"
+            ],
+            "feedlist": "https://www.reddit.com/wiki/rss",
+            "favicon": "https://www.reddit.com/favicon.ico",
+            "channels": {
+                "r/Brazil": "https://www.reddit.com/r/Brazil/.rss",
+                "r/brazil": "https://www.reddit.com/r/brasil/.rss",
+                "r/soccer": "https://www.reddit.com/r/soccer/.rss",
+                "r/formula1": "https://www.reddit.com/r/formula1/.rss",
+                "r/south_america": "https://www.reddit.com/t/south_america/.rss"
+            }
+        }
+    ]
+}

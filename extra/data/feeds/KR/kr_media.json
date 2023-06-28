@@ -1,0 +1,686 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "경향신문",
+            "nickname": "경향",
+            "website": "https://www.khan.co.kr/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스"
+            ],
+            "feedlist": "https://www.khan.co.kr/help/help_rss.html",
+            "favicon": "https://www.khan.co.kr/favicon.ico",
+            "channels": {
+                "전체뉴스": "https://www.khan.co.kr/rss/rssdata/total_news.xml",
+                "정치": "https://www.khan.co.kr/rss/rssdata/politic_news.xml",
+                "경제": "https://www.khan.co.kr/rss/rssdata/economy_news.xml",
+                "사회": "https://www.khan.co.kr/rss/rssdata/society_news.xml",
+                "국제": "https://www.khan.co.kr/rss/rssdata/kh_world.xml",
+                "스포츠": "http://www.khan.co.kr/rss/rssdata/kh_sports.xml",
+                "문화": "https://www.khan.co.kr/rss/rssdata/culture_news.xml",
+                "연예": "https://www.khan.co.kr/rss/rssdata/kh_entertainment.xml",
+                "IT": "http://www.khan.co.kr/rss/rssdata/it_news.xml",
+                "전국": "https://www.khan.co.kr/rss/rssdata/local_news.xml",
+                "인물": "https://www.khan.co.kr/rss/rssdata/people_news.xml",
+                "오피니언": "https://www.khan.co.kr/rss/rssdata/opinion_news.xml"
+            }
+        },
+        {
+            "title": "뉴스와이어",
+            "nickname": "뉴스와이어",
+            "website": "https://www.newswire.co.kr",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "보도자료"
+            ],
+            "feedlist": "https://www.newswire.co.kr/?md=A31",
+            "favicon": "https://www.newswire.co.kr/favicon.ico",
+            "channels": {
+                "보도자료 전체": "https://api.newswire.co.kr/rss/all",
+                "IT": "https://api.newswire.co.kr/rss/industry/600",
+                "건강": "https://api.newswire.co.kr/rss/industry/1000",
+                "경제": "https://api.newswire.co.kr/rss/industry/100",
+                "교육": "https://api.newswire.co.kr/rss/industry/1100",
+                "금융": "https://api.newswire.co.kr/rss/industry/200",
+                "농수산": "https://api.newswire.co.kr/rss/industry/1700",
+                "라이프 스타일": "https://api.newswire.co.kr/rss/industry/900",
+                "레저": "https://api.newswire.co.kr/rss/industry/1300",
+                "문화/연예": "https://api.newswire.co.kr/rss/industry/1200",
+                "물류/교통": "https://api.newswire.co.kr/rss/industry/1800",
+                "미디어": "https://api.newswire.co.kr/rss/industry/700",
+                "부동산": "https://api.newswire.co.kr/rss/industry/300",
+                "사회": "https://api.newswire.co.kr/rss/industry/1900",
+                "산업": "https://api.newswire.co.kr/rss/industry/400",
+                "스포츠": "https://api.newswire.co.kr/rss/industry/1600",
+                "에너지/환경": "https://api.newswire.co.kr/rss/industry/1500",
+                "유통": "https://api.newswire.co.kr/rss/industry/800",
+                "자동차": "https://api.newswire.co.kr/rss/industry/500",
+                "정책/정부": "https://api.newswire.co.kr/rss/industry/1400",
+                "상장사": "https://api.newswire.co.kr/rss/irnews",
+                "영문": "https://api.newswire.co.kr/rss/english",
+                "동영상": "https://api.newswire.co.kr/rss/movie",
+                "서울": "https://api.newswire.co.kr/rss/region/1",
+                "인천/경기": "https://api.newswire.co.kr/rss/region/2",
+                "대전/충남": "https://api.newswire.co.kr/rss/region/3",
+                "광주/전남": "https://api.newswire.co.kr/rss/region/4",
+                "부산/울산/경남": "https://api.newswire.co.kr/rss/region/5",
+                "대구/경북": "https://api.newswire.co.kr/rss/region/6",
+                "강원": "https://api.newswire.co.kr/rss/region/7",
+                "충북": "https://api.newswire.co.kr/rss/region/8",
+                "전북": "https://api.newswire.co.kr/rss/region/9",
+                "제주": "https://api.newswire.co.kr/rss/region/10",
+                "해외": "https://api.newswire.co.kr/rss/region/11",
+                "개발": "https://api.newswire.co.kr/rss/theme/112",
+                "공모/모집": "https://api.newswire.co.kr/rss/theme/114",
+                "기업문화": "https://api.newswire.co.kr/rss/theme/108",
+                "기타": "https://api.newswire.co.kr/rss/theme/125",
+                "분양": "https://api.newswire.co.kr/rss/theme/109",
+                "사업계획": "https://api.newswire.co.kr/rss/theme/116",
+                "사회공헌": "https://api.newswire.co.kr/rss/theme/107",
+                "선언/의견": "https://api.newswire.co.kr/rss/theme/117",
+                "설립": "https://api.newswire.co.kr/rss/theme/111",
+                "소송": "https://api.newswire.co.kr/rss/theme/124",
+                "수상/선정": "https://api.newswire.co.kr/rss/theme/118",
+                "수주": "https://api.newswire.co.kr/rss/theme/113",
+                "신상품": "https://api.newswire.co.kr/rss/theme/101",
+                "실적": "https://api.newswire.co.kr/rss/theme/102",
+                "인물동정": "https://api.newswire.co.kr/rss/theme/104",
+                "인사": "https://api.newswire.co.kr/rss/theme/105",
+                "인수/합병": "https://api.newswire.co.kr/rss/theme/119",
+                "전시/출품": "https://api.newswire.co.kr/rss/theme/120",
+                "정책": "https://api.newswire.co.kr/rss/theme/123",
+                "제휴": "https://api.newswire.co.kr/rss/theme/106",
+                "조사연구": "https://api.newswire.co.kr/rss/theme/121",
+                "채용": "https://api.newswire.co.kr/rss/theme/115",
+                "투자": "https://api.newswire.co.kr/rss/theme/110",
+                "판촉활동": "https://api.newswire.co.kr/rss/theme/103",
+                "행사": "https://api.newswire.co.kr/rss/theme/122"
+            }
+        },
+        {
+            "title": "노컷뉴스",
+            "nickname": "노컷",
+            "website": "https://nocutnews.co.kr/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스"
+            ],
+            "feedlist": "https://nocutnews.co.kr/rss/",
+            "favicon": "https://nocutnews.co.kr/favicon.ico",
+            "channels": {
+                "정치": "https://rss.nocutnews.co.kr/category/politics.xml",
+                "경제": "https://rss.nocutnews.co.kr/category/economy.xml",
+                "사회": "https://rss.nocutnews.co.kr/category/society.xml",
+                "문화": "https://rss.nocutnews.co.kr/category/culture.xml",
+                "세계": "https://rss.nocutnews.co.kr/category/world.xml",
+                "IT/과학": "https://rss.nocutnews.co.kr/category/it.xml",
+                "연예": "https://rss.nocutnews.co.kr/category/entertainment.xml",
+                "스포츠": "https://rss.nocutnews.co.kr/category/sports.xml",
+                "전국": "https://rss.nocutnews.co.kr/category/area.xml",
+                "오피니언": "https://rss.nocutnews.co.kr/category/opinion.xml",
+                "포토": "https://rss.nocutnews.co.kr/category/photo.xml",
+                "전체": "https://rss.nocutnews.co.kr/news/news.xml",
+                "TOP": "https://rss.nocutnews.co.kr/news/top.xml",
+                "강원": "https://rss.nocutnews.co.kr/news/gangwon.xml",
+                "강원영동": "https://rss.nocutnews.co.kr/news/yeongdong.xml",
+                "경인": "https://rss.nocutnews.co.kr/news/gyeongin.xml",
+                "경남": "https://rss.nocutnews.co.kr/news/gyeongnam.xml",
+                "광주": "https://rss.nocutnews.co.kr/news/gwangju.xml",
+                "대구": "https://rss.nocutnews.co.kr/news/daegu.xml",
+                "대전": "https://rss.nocutnews.co.kr/news/daejeon.xml",
+                "부산": "https://rss.nocutnews.co.kr/news/busan.xml",
+                "울산": "https://rss.nocutnews.co.kr/news/ulsan.xml",
+                "전남": "https://rss.nocutnews.co.kr/news/jeonnam.xml",
+                "전북": "https://rss.nocutnews.co.kr/news/jeonbuk.xml",
+                "제주": "https://rss.nocutnews.co.kr/news/jeju.xml",
+                "청주": "https://rss.nocutnews.co.kr/news/cheongju.xml",
+                "포항": "https://rss.nocutnews.co.kr/news/pohang.xml"
+            }
+        },
+        {
+            "title": "매일경제",
+            "nickname": "매경",
+            "website": "https://www.mk.co.kr/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "경제"
+            ],
+            "feedlist": "https://www.mk.co.kr/rss/",
+            "favicon": "https://img.mk.co.kr/main/2015/mk_new/favicon_new.ico",
+            "channels": {
+                "헤드라인": "https://www.mk.co.kr/rss/30000001/",
+                "전체뉴스": "https://www.mk.co.kr/rss/40300001/",
+                "경제": "https://www.mk.co.kr/rss/30100041/",
+                "정치": "https://www.mk.co.kr/rss/30200030/",
+                "사회": "https://www.mk.co.kr/rss/50400012/",
+                "국제": "https://www.mk.co.kr/rss/30300018/",
+                "기업ㆍ경영": "https://www.mk.co.kr/rss/50100032/",
+                "증권": "https://www.mk.co.kr/rss/50200011/",
+                "부동산": "https://www.mk.co.kr/rss/50300009/",
+                "문화ㆍ연예": "https://www.mk.co.kr/rss/30000023/",
+                "스포츠": "https://www.mk.co.kr/rss/71000001/",
+                "게임": "https://www.mk.co.kr/rss/50700001/",
+                "MBA": "https://www.mk.co.kr/rss/40200124/",
+                "머니 앤 리치스": "https://www.mk.co.kr/rss/40200003/",
+                "Top Stories": "https://www.mk.co.kr/rss/30800011/",
+                "이코노미": "https://www.mk.co.kr/rss/50000001/",
+                "시티라이프": "https://www.mk.co.kr/rss/60000007/"
+            }
+        },
+        {
+            "title": "미디어오늘",
+            "nickname": "미디어오늘",
+            "website": "http://www.mediatoday.co.kr/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스"
+            ],
+            "feedlist": "http://www.mediatoday.co.kr/rssIndex.html",
+            "favicon": "https://cdn.mediatoday.co.kr/image/logo/favicon.ico",
+            "channels": {
+                "전체기사": "https://www.mediatoday.co.kr/rss/allArticle.xml",
+                "인기기사": "https://www.mediatoday.co.kr/rss/clickTop.xml",
+                "정치": "https://www.mediatoday.co.kr/rss/S1N2.xml",
+                "경제": "https://www.mediatoday.co.kr/rss/S1N3.xml",
+                "사회": "https://www.mediatoday.co.kr/rss/S1N4.xml",
+                "문화": "https://www.mediatoday.co.kr/rss/S1N5.xml",
+                "국제": "https://www.mediatoday.co.kr/rss/S1N6.xml",
+                "IT": "https://www.mediatoday.co.kr/rss/S1N7.xml",
+                "오피니언": "https://www.mediatoday.co.kr/rss/S1N8.xml",
+                "동영상": "https://www.mediatoday.co.kr/rss/S1N10.xml",
+                "미디어": "https://www.mediatoday.co.kr/rss/S1N11.xml"
+            }
+        },
+        {
+            "title": "스포츠경향",
+            "nickname": "스포츠경향",
+            "website": "https://sports.khan.co.kr/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "스포츠"
+            ],
+            "feedlist": "https://www.khan.co.kr/help/help_rss.html",
+            "favicon": "https://www.khan.co.kr/favicon.ico",
+            "channels": {
+                "전체뉴스": "https://www.khan.co.kr/rss/rssdata/sktotal_news.xml",
+                "스포츠": "https://www.khan.co.kr/rss/rssdata/sksports_news.xml",
+                "연예": "https://www.khan.co.kr/rss/rssdata/sk_entertainment.xml",
+                "생활·레저": "https://www.khan.co.kr/rss/rssdata/skentertain_news.xml"
+            }
+        },
+        {
+            "title": "스포츠한국",
+            "nickname": "스포츠한국",
+            "website": "http://sports.hankooki.com/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "스포츠"
+            ],
+            "feedlist": "https://rss.hankooki.com/",
+            "favicon": "http://img.hankooki.com/icon/sports/favicon.ico",
+            "channels": {
+                "전체": "https://rss.hankooki.com/sports/sp_main.xml",
+                "야구": "https://rss.hankooki.com/sports/sp_baseball.xml",
+                "축구": "https://rss.hankooki.com/sports/sp_soccer.xml",
+                "스포츠종합": "https://rss.hankooki.com/sports/sp_sports.xml",
+                "연예": "https://rss.hankooki.com/sports/sp_entv.xml",
+                "라이프": "https://rss.hankooki.com/sports/sp_life.xml",
+                "연재물": "https://rss.hankooki.com/sports/sp_series.xml",
+                "경제": "https://rss.hankooki.com/sports/sp_economy.xml",
+                "시사": "https://rss.hankooki.com/sports/sp_sisa.xml",
+                "문화": "https://rss.hankooki.com/sports/sp_culture.xml"
+            }
+        },
+        {
+            "title": "시사IN",
+            "nickname": "시사IN",
+            "website": "https://www.sisain.co.kr/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "시사",
+                "주간지"
+            ],
+            "feedlist": "https://www.sisain.co.kr/rss.html",
+            "favicon": "https://www.sisain.co.kr/image/logo/favicon.ico",
+            "channels": {
+                "전체기사": "https://www.sisain.co.kr/rss/allArticle.xml",
+                "인기기사": "https://www.sisain.co.kr/rss/clickTop.xml",
+                "COVER STORY IN": "https://www.sisain.co.kr/rss/S1N2.xml",
+                "정치": "https://www.sisain.co.kr/rss/S1N6.xml",
+                "경제": "https://www.sisain.co.kr/rss/S1N7.xml",
+                "사회": "https://www.sisain.co.kr/rss/S1N8.xml",
+                "문화": "https://www.sisain.co.kr/rss/S1N9.xml",
+                "라이프": "https://www.sisain.co.kr/rss/S1N10.xml",
+                "국제·한반도": "https://www.sisain.co.kr/rss/S1N11.xml",
+                "인터뷰·오피니언": "https://www.sisain.co.kr/rss/S1N12.xml",
+                "교육": "https://www.sisain.co.kr/rss/S1N13.xml",
+                "만화": "https://www.sisain.co.kr/rss/S1N14.xml",
+                "사진": "https://www.sisain.co.kr/rss/S1N15.xml",
+                "English": "https://www.sisain.co.kr/rss/S1N23.xml"
+            }
+        },
+        {
+            "title": "시사저널",
+            "nickname": "시사저널",
+            "website": "http://www.sisajournal.com/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "시사",
+                "주간지"
+            ],
+            "feedlist": "https://www.sisajournal.com/rss/",
+            "favicon": "https://www.sisajournal.com/image/logo/favicon.ico",
+            "channels": {
+                "전체기사": "http://www.sisajournal.com/rss/allArticle.xml",
+                "인기기사": "http://www.sisajournal.com/rss/clickTop.xml",
+                "사회": "http://www.sisajournal.com/rss/S1N47.xml",
+                "경제": "http://www.sisajournal.com/rss/S1N54.xml",
+                "한반도": "http://www.sisajournal.com/rss/S1N55.xml",
+                "LIFE": "http://www.sisajournal.com/rss/S1N56.xml",
+                "OPINION": "http://www.sisajournal.com/rss/S1N57.xml",
+                "정치": "http://www.sisajournal.com/rss/S1N58.xml",
+                "국제": "http://www.sisajournal.com/rss/S1N59.xml",
+                "Health": "http://www.sisajournal.com/rss/S2N106.xml",
+                "Culture": "http://www.sisajournal.com/rss/S2N107.xml"
+            }
+        },
+        {
+            "title": "아이뉴스24",
+            "nickname": "아이뉴스24",
+            "website": "https://www.inews24.com/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스"
+            ],
+            "feedlist": "https://www.inews24.com/customer/rss/",
+            "favicon": "https://www.inews24.com/favicon.ico",
+            "channels": {
+                "IT": "https://www.inews24.com/rss/news_it.xml",
+                "경제": "https://www.inews24.com/rss/news_economy.xml",
+                "정치": "https://www.inews24.com/rss/news_politics.xml",
+                "사회": "https://www.inews24.com/rss/news_society.xml",
+                "문화": "https://www.inews24.com/rss/news_culture.xml",
+                "생활": "https://www.inews24.com/rss/news_life.xml",
+                "연예": "https://www.inews24.com/rss/news_enter.xml",
+                "스포츠": "https://www.inews24.com/rss/news_sports.xml"
+            }
+        },
+        {
+            "title": "에이빙",
+            "nickname": "에이빙",
+            "website": "http://www.aving.net",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "인터넷"
+            ],
+            "feedlist": "http://www.aving.net/?page_id=11228",
+            "favicon": "http://kr.aving.net/favicon.ico",
+            "channels": {
+                "모바일/통신": "http://www.aving.net/rss/mobile.xml",
+                "컴퓨팅": "http://www.aving.net/rss/computing.xml",
+                "가전": "http://www.aving.net/rss/homeappliance.xml",
+                "라이프": "http://www.aving.net/rss/life.xml",
+                "하우징": "http://www.aving.net/rss/housing.xml",
+                "자동차": "http://www.aving.net/rss/motor.xml",
+                "영상음향": "http://www.aving.net/rss/avpa.xml",
+                "에이빙걸": "http://feeds.feedburner.com/AVING_Girl.xml",
+                "업계동향": "http://www.aving.net/rss/industry.xml",
+                "English": "http://www.aving.net/rss/english.xml",
+                "Chinese": "http://aving.com.cn/?feed=rss2",
+                "Korean": "http://www.aving.net/rss/korean.xml",
+                "German": "http://www.aving.net/rss/german.xml",
+                "Japanese": "http://www.aving.net/rss/japanese.xml"
+            }
+        },
+        {
+            "title": "오마이뉴스",
+            "nickname": "오마이",
+            "website": "http://www.ohmynews.com",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스"
+            ],
+            "feedlist": "http://www.ohmynews.com/nws_web/help/srv/h_help_rss.aspx",
+            "favicon": "http://www.ohmynews.com/favicon.ico",
+            "channels": {
+                "전체기사": "http://rss.ohmynews.com/rss/ohmynews.xml",
+                "주요기사": "http://rss.ohmynews.com/rss/top.xml",
+                "오늘의사진": "http://rss.ohmynews.com/rss/todayphoto.xml",
+                "사는이야기": "http://rss.ohmynews.com/rss/life.xml",
+                "사회": "http://rss.ohmynews.com/rss/society.xml",
+                "문화": "http://rss.ohmynews.com/rss/culture.xml",
+                "정치": "http://rss.ohmynews.com/rss/politics.xml",
+                "경제": "http://rss.ohmynews.com/rss/economy.xml",
+                "민족·국제": "http://rss.ohmynews.com/rss/international.xml",
+                "교육": "http://rss.ohmynews.com/rss/education.xml",
+                "미디어": "http://rss.ohmynews.com/rss/media.xml",
+                "여행": "http://rss.ohmynews.com/rss/travel.xml",
+                "책동네": "http://rss.ohmynews.com/rss/book.xml",
+                "여성": "http://rss.ohmynews.com/rss/woman.xml",
+                "광주전라": "http://rss.ohmynews.com/rss/jeolla.xml",
+                "부산경남": "http://rss.ohmynews.com/rss/gyeongnam.xml",
+                "대전충청": "http://rss.ohmynews.com/rss/chungnam.xml",
+                "인천경기": "http://rss.ohmynews.com/rss/gyeonggi.xml",
+                "대구경북": "http://rss.ohmynews.com/rss/kyungbuk.xml",
+                "강원제주": "http://rss.ohmynews.com/rss/gangwonjeju.xml",
+                "해외리포트": "http://rss.ohmynews.com/rss/ab_reporter.xml",
+                "만화만평": "http://rss.ohmynews.com/rss/cartoon.xml"
+            }
+        },
+        {
+            "title": "오마이스타",
+            "nickname": "오마이스타",
+            "website": "http://www.ohmynews.com",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "연예"
+            ],
+            "feedlist": "http://www.ohmynews.com/nws_web/help/srv/h_help_rss.aspx",
+            "favicon": "http://www.ohmynews.com/favicon.ico",
+            "channels": {
+                "전체기사": "http://rss.ohmynews.com/rss/star.xml",
+                "주요기사": "http://rss.ohmynews.com/rss/startop.xml",
+                "스포츠": "http://rss.ohmynews.com/rss/sports.xml"
+            }
+        },
+        {
+            "title": "오마이TV",
+            "nickname": "오마이TV",
+            "website": "http://www.ohmynews.com",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "방송"
+            ],
+            "feedlist": "http://www.ohmynews.com/nws_web/help/srv/h_help_rss.aspx",
+            "favicon": "http://www.ohmynews.com/favicon.ico",
+            "channels": {
+                "최진기의 인문학 특강": "http://rss.ohmynews.com/rss/podcast_cjk_online_main.xml",
+                "오마이스쿨 온라인 강좌": "http://rss.ohmynews.com/rss/podcast_full_online_main.xml",
+                "오마이TV 저자와의 대화": "http://rss.ohmynews.com/rss/podcast_authortalk_main.xml",
+                "이슈 털어주는 남자": "http://rss.ohmynews.com/RSS/podcast_etul_main.xml",
+                "이털남 시즌3": "http://rss.ohmynews.com/RSS/podcast_etul3_main.xml"
+            }
+        },
+        {
+            "title": "전자신문",
+            "nickname": "전자신문",
+            "website": "https://www.etnews.com",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "전자"
+            ],
+            "feedlist": "https://www.etnews.com/rss/",
+            "favicon": "https://www.etnews.com/favicon.ico",
+            "channels": {
+                "오늘의 뉴스": "http://rss.etnews.com/Section901.xml",
+                "뉴스속보": "http://rss.etnews.com/Section902.xml",
+                "오늘의 인기기사": "http://rss.etnews.com/Section903.xml",
+                "오늘의 추천기사": "http://rss.etnews.com/Section904.xml",
+                "경제·금융": "http://rss.etnews.com/02.xml",
+                "증권": "http://rss.etnews.com/02021.xml",
+                "경제": "http://rss.etnews.com/02024.xml",
+                "금융": "http://rss.etnews.com/02027.xml",
+                "특허": "http://rss.etnews.com/02022.xml",
+                "전자·모빌리티": "http://rss.etnews.com/17.xml",
+                "전자산업": "http://rss.etnews.com/17063.xml",
+                "모빌리티": "http://rss.etnews.com/17066.xml",
+                "통신·미디어·게임": "http://rss.etnews.com/03.xml",
+                "통신": "http://rss.etnews.com/03033.xml",
+                "방송": "http://rss.etnews.com/03025.xml",
+                "네트워크": "http://rss.etnews.com/03225.xml",
+                "게임": "http://rss.etnews.com/03104.xml",
+                "콘텐츠": "http://rss.etnews.com/03102.xml",
+                "소재·부품": "http://rss.etnews.com/06.xml",
+                "소재": "http://rss.etnews.com/06064.xml",
+                "부품": "http://rss.etnews.com/06062.xml",
+                "장비": "http://rss.etnews.com/06061.xml",
+                "SW·보안": "http://rss.etnews.com/04.xml",
+                "SW": "http://rss.etnews.com/04043.xml",
+                "SW교육": "http://rss.etnews.com/04044.xml",
+                "보안": "http://rss.etnews.com/04045.xml",
+                "산업·에너지·환경": "http://rss.etnews.com/20.xml",
+                "과학": "http://rss.etnews.com/20020.xml",
+                "에너지": "http://rss.etnews.com/20065.xml",
+                "플랫폼·유통": "http://rss.etnews.com/60.xml",
+                "유통": "http://rss.etnews.com/60068.xml",
+                "기업": "http://rss.etnews.com/60028.xml",
+                "벤처·바이오": "http://rss.etnews.com/16.xml",
+                "의료바이오": "http://rss.etnews.com/16042.xml",
+                "중기/벤처": "http://rss.etnews.com/16069.xml",
+                "정책/정치/교육": "http://rss.etnews.com/16.xml",
+                "정책": "http://rss.etnews.com/22210.xml",
+                "정치": "http://rss.etnews.com/22220.xml",
+                "교육": "http://rss.etnews.com/22230.xml",
+                "전국": "http://rss.etnews.com/25.xml",
+                "국제": "http://rss.etnews.com/12.xml",
+                "오피니언": "http://rss.etnews.com/11.xml",
+                "열린마당": "http://rss.etnews.com/11011.xml"
+            }
+        },
+        {
+            "title": "jtbc 뉴스",
+            "nickname": "jtbc",
+            "website": "https://news.jtbc.joins.com",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스"
+            ],
+            "feedlist": "https://news.jtbc.joins.com/Etc/RssService.aspx",
+            "favicon": "https://images.jtbc.joins.com/ui_mobile/app_icon/favicon-32x32.png",
+            "channels": {
+                "속보": "https://fs.jtbc.joins.com/RSS/newsflash.xml",
+                "정치": "https://fs.jtbc.joins.com/RSS/politics.xml",
+                "경제": "https://fs.jtbc.joins.com/RSS/economy.xml",
+                "사회": "https://fs.jtbc.joins.com/RSS/society.xml",
+                "국제": "https://fs.jtbc.joins.com/RSS/international.xml",
+                "문화": "https://fs.jtbc.joins.com/RSS/culture.xml",
+                "연예": "https://fs.jtbc.joins.com/RSS/entertainment.xml",
+                "스포츠": "https://fs.jtbc.joins.com/RSS/sports.xml",
+                "풀영상": "https://fs.jtbc.joins.com/RSS/fullvideo.xml",
+                "뉴스랭킹": "https://fs.jtbc.joins.com/RSS/newsrank.xml",
+                "뉴스룸": "https://fs.jtbc.joins.com/RSS/newsroom.xml",
+                "아침&": "https://fs.jtbc.joins.com/RSS/morningand.xml",
+                "썰전 라이브": "https://fs.jtbc.joins.com/RSS/ssulzunlive.xml",
+                "정치부회의": "https://fs.jtbc.joins.com/RSS/politicaldesk.xml"
+            }
+        },
+        {
+            "title": "지피코리아",
+            "nickname": "지피코리아",
+            "website": "http://www.gpkorea.com/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "자동차"
+            ],
+            "feedlist": "http://www.gpkorea.com/rss/",
+            "favicon": "http://www.gpkorea.com/image/logo/favicon_20180330110946.ico",
+            "channels": {
+                "전체기사": "http://www.gpkorea.com/rss/allArticle.xml",
+                "인기기사": "http://www.gpkorea.com/rss/clickTop.xml",
+                "자동차뉴스": "http://www.gpkorea.com/rss/S1N1.xml",
+                "모터스포츠": "http://www.gpkorea.com/rss/S1N2.xml",
+                "테마기획": "http://www.gpkorea.com/rss/S1N3.xml",
+                "시승기": "http://www.gpkorea.com/rss/S1N4.xml",
+                "영상뉴스": "http://www.gpkorea.com/rss/S1N5.xml"
+            }
+        },
+        {
+            "title": "파이낸셜 뉴스",
+            "nickname": "파이낸셜",
+            "website": "https://www.fnnews.com",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "경제"
+            ],
+            "feedlist": "https://www.fnnews.com/rss",
+            "favicon": "https://www.fnnews.com/resources/images/icon2020/favicon_16x16_j4i_icon.ico",
+            "channels": {
+                "전체기사": "https://www.fnnews.com/rss/r20/fn_realnews_all.xml",
+                "정치": "https://www.fnnews.com/rss/r20/fn_realnews_politics.xml",
+                "국제": "https://www.fnnews.com/rss/r20/fn_realnews_international.xml",
+                "사회": "https://www.fnnews.com/rss/r20/fn_realnews_society.xml",
+                "교육": "https://www.fnnews.com/rss/r20/fn_realnews_edu.xml",
+                "피플": "https://www.fnnews.com/rss/r20/fn_realnews_people.xml",
+                "경제": "https://www.fnnews.com/rss/r20/fn_realnews_economy.xml",
+                "증권": "https://www.fnnews.com/rss/r20/fn_realnews_stock.xml",
+                "금융": "https://www.fnnews.com/rss/r20/fn_realnews_finance.xml",
+                "부동산": "https://www.fnnews.com/rss/r20/fn_realnews_realestate.xml",
+                "산업": "https://www.fnnews.com/rss/r20/fn_realnews_industry.xml",
+                "IT": "https://www.fnnews.com/rss/r20/fn_realnews_it.xml",
+                "의학·과학": "https://www.fnnews.com/rss/r20/fn_realnews_medical.xml",
+                "생활경제": "https://www.fnnews.com/rss/r20/fn_realnews_circulation.xml",
+                "사설·칼럼": "https://www.fnnews.com/rss/r20/fn_realnews_column.xml",
+                "외부칼럼": "https://www.fnnews.com/rss/r20/fn_realnews_outcolumn.xml",
+                "연예": "https://www.fnnews.com/rss/r20/fn_realnews_ent.xml",
+                "스포츠": "https://www.fnnews.com/rss/r20/fn_realnews_sports.xml'",
+                "패션/뷰티": "https://www.fnnews.com/rss/r20/fn_realnews_fasion.xml",
+                "푸드·리빙": "https://www.fnnews.com/rss/r20/fn_realnews_living.xml",
+                "레저·헬스": "https://www.fnnews.com/rss/r20/fn_realnews_health.xml",
+                "자동차": "https://www.fnnews.com/rss/r20/fn_realnews_car.xml",
+                "문화": "https://www.fnnews.com/rss/r20/fn_realnews_culture.xml",
+                "블록포스트": "https://www.fnnews.com/rss/r20/fn_realnews_blockpost.xml"
+            }
+        },
+        {
+            "title": "프레시안",
+            "nickname": "프레시안",
+            "website": "https://www.pressian.com/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스"
+            ],
+            "feedlist": "https://www.pressian.com/rss",
+            "favicon": "https://cdn.pressian.com/pressian.ico",
+            "channels": {
+                "최신 기사": "http://www.pressian.com/api/v3/site/rss/news",
+                "뉴스": "http://www.pressian.com/api/v3/site/rss/section/25",
+                "books": "http://www.pressian.com/api/v3/site/rss/section/60",
+                "세계": "http://www.pressian.com/api/v3/site/rss/section/65",
+                "정치": "http://www.pressian.com/api/v3/site/rss/section/66",
+                "경제": "http://www.pressian.com/api/v3/site/rss/section/67",
+                "사회": "http://www.pressian.com/api/v3/site/rss/section/68",
+                "문화": "http://www.pressian.com/api/v3/site/rss/section/69",
+                "스포츠": "http://www.pressian.com/api/v3/site/rss/section/70",
+                "미디어": "http://www.pressian.com/api/v3/site/rss/section/75"
+            }
+        },
+        {
+            "title": "한국경제신문",
+            "nickname": "한경",
+            "website": "https://hankyung.com/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "경제"
+            ],
+            "feedlist": "https://rss.hankyung.com/",
+            "favicon": "https://hankyung.com/favicon.ico",
+            "channels": {
+                "주요뉴스": "https://rss.hankyung.com/feed/headline.xml",
+                "경제": "https://rss.hankyung.com/feed/economy.xml",
+                "IT": "https://rss.hankyung.com/feed/it.xml",
+                "국제": "https://rss.hankyung.com/feed/international.xml",
+                "생활": "https://rss.hankyung.com/feed/life.xml",
+                "스포츠": "https://rss.hankyung.com/feed/sports.xml",
+                "증권": "https://rss.hankyung.com/feed/stock.xml",
+                "부동산": "https://rss.hankyung.com/feed/land.xml",
+                "정치": "https://rss.hankyung.com/feed/politics.xml",
+                "사회": "https://rss.hankyung.com/feed/society.xml",
+                "오피니언": "https://rss.hankyung.com/feed/opinion.xml",
+                "연예": "https://rss.hankyung.com/feed/hei.xml"
+            }
+        },
+        {
+            "title": "한겨레",
+            "nickname": "한겨레",
+            "website": "https://www.hani.co.kr/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스"
+            ],
+            "feedlist": "https://www.hani.co.kr/arti/RSS/",
+            "favicon": "https://www.hani.co.kr/favicon.ico",
+            "channels": {
+                "전체기사": "https://www.hani.co.kr/rss/",
+                "정치": "https://www.hani.co.kr/rss/politics/",
+                "경제": "https://www.hani.co.kr/rss/economy/",
+                "사회": "https://www.hani.co.kr/rss/society/",
+                "국제": "https://www.hani.co.kr/rss/international/",
+                "대중문화": "https://www.hani.co.kr/rss/culture/",
+                "스포츠": "https://www.hani.co.kr/rss/sports/",
+                "과학": "https://www.hani.co.kr/rss/science/",
+                "사설·칼럼": "https://www.hani.co.kr/rss/opinion/",
+                "만화만평": "https://www.hani.co.kr/rss/cartoon/",
+                "English Edition": "https://www.hani.co.kr/rss/english_edition/",
+                "한겨레섹션": "https://www.hani.co.kr/rss/specialsection/",
+                "함께하는 교육": "https://www.hani.co.kr/rss/education/",
+                "토요판": "https://www.hani.co.kr/rss/saturday/",
+                "하니온리": "https://www.hani.co.kr/rss/hanionly/",
+                "한겨레온리": "https://www.hani.co.kr/rss/hkronly/",
+                "멀티하니": "https://www.hani.co.kr/rss/multihani/",
+                "주요기사": "https://www.hani.co.kr/rss/lead/",
+                "인기기사": "https://www.hani.co.kr/rss/newsrank/"
+            }
+        },
+        {
+            "title": "한겨레21",
+            "nickname": "한겨레21",
+            "website": "http://h21.hani.co.kr/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스",
+                "시사",
+                "주간지"
+            ],
+            "feedlist": "https://h21.hani.co.kr/arti/RSS",
+            "favicon": "https://h21.hani.co.kr/favicon.ico",
+            "channels": {
+                "전체기사": "https://h21.hani.co.kr/rss/",
+                "표지이야기": "https://h21.hani.co.kr/rss/cover/",
+                "특집": "https://h21.hani.co.kr/rss/special/",
+                "정치": "https://h21.hani.co.kr/rss/politics/",
+                "경제": "https://h21.hani.co.kr/rss/economy/",
+                "사회": "https://h21.hani.co.kr/rss/society/",
+                "세계": "https://h21.hani.co.kr/rss/world/",
+                "문화": "https://h21.hani.co.kr/rss/culture/",
+                "멀티미디어": "https://h21.hani.co.kr/rss/photo/",
+                "커뮤니티": "https://h21.hani.co.kr/rss/reader/"
+            }
+        }
+    ]
+}
