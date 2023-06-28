@@ -1,5 +1,6 @@
 // urls
-const urlFeedSource = 'https://innomatica.github.io/nuntium/extra/data/feeds/';
+const urlFeedSource =
+    'https://raw.githubusercontent.com/innomatica/nuntium/master/extra/data/feeds/';
 const urlFeedSourceDefault = '${urlFeedSource}feeds_en_US.json';
 const supportedLocales = [
   'en_CA',
