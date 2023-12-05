@@ -5,7 +5,7 @@ import 'package:nuntiumapp/screens/about/disclaimer.dart';
 import 'package:nuntiumapp/screens/about/privacy.dart';
 
 class About extends StatefulWidget {
-  const About({Key? key}) : super(key: key);
+  const About({super.key});
 
   @override
   State<About> createState() => _AboutState();

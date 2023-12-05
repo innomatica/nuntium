@@ -6,7 +6,7 @@ import '../../models/feed_channel.dart';
 
 class ChannelDetailsPage extends StatefulWidget {
   final FeedChannel channel;
-  const ChannelDetailsPage(this.channel, {Key? key}) : super(key: key);
+  const ChannelDetailsPage(this.channel, {super.key});
 
   @override
   State<ChannelDetailsPage> createState() => _ChannelDetailsPageState();

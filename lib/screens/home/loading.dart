@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class LoadingEffect extends StatefulWidget {
   final Color? color;
-  const LoadingEffect({this.color, Key? key}) : super(key: key);
+  const LoadingEffect({this.color, super.key});
 
   @override
   State<LoadingEffect> createState() => _LoadingEffectState();

@@ -10,7 +10,7 @@ import 'channel_details.dart';
 import 'curated_feeds.dart';
 
 class ChannelListPage extends StatefulWidget {
-  const ChannelListPage({Key? key}) : super(key: key);
+  const ChannelListPage({super.key});
 
   @override
   State<ChannelListPage> createState() => _ChannelListPageState();

@@ -1,4 +1,3 @@
-import 'dart:async';
 import 'dart:convert';
 
 import 'package:feed_parser/feed_parser.dart';
@@ -103,13 +102,11 @@ class _ChannelBrowserPageState extends State<ChannelBrowserPage> {
 
   @override
   Widget build(BuildContext context) {
-    return WillPopScope(
-      onWillPop: () async {
+    return PopScope(
+      canPop: true,
+      onPopInvoked: (_) async {
         if (await _controller.canGoBack()) {
           _controller.goBack();
-          return Future.value(false);
-        } else {
-          return Future.value(true);
         }
       },
       child: Scaffold(

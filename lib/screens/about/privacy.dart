@@ -3,7 +3,7 @@ import 'package:nuntiumapp/shared/settings.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class Privacy extends StatelessWidget {
-  const Privacy({Key? key}) : super(key: key);
+  const Privacy({super.key});
 
   @override
   Widget build(BuildContext context) {

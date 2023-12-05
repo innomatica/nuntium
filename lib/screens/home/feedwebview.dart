@@ -9,8 +9,8 @@ class FeedWebView extends StatefulWidget {
   const FeedWebView({
     required this.pageTitle,
     required this.pageUrl,
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   State<FeedWebView> createState() => _FeedWebViewState();

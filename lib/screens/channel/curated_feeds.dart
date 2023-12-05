@@ -8,7 +8,7 @@ import '../../shared/constants.dart';
 import '../../shared/helpers.dart';
 
 class CuratedFeedPage extends StatefulWidget {
-  const CuratedFeedPage({Key? key}) : super(key: key);
+  const CuratedFeedPage({super.key});
 
   @override
   State<CuratedFeedPage> createState() => _CuratedFeedPageState();
