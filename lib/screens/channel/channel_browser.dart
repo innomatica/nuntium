@@ -124,7 +124,7 @@ class _ChannelBrowserPageState extends State<ChannelBrowserPage> {
                   if (await _controller.canGoBack()) {
                     _controller.goBack();
                   } else {
-                    if (mounted) {
+                    if (context.mounted) {
                       Navigator.of(context).pop();
                     }
                   }

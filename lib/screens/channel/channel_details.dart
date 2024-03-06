@@ -200,7 +200,7 @@ class _ChannelDetailsPageState extends State<ChannelDetailsPage> {
             onPressed: () async {
               // delete the channel and update stream
               await bloc.deleteFeedChannelByUrl(widget.channel.url);
-              if (mounted) {
+              if (context.mounted) {
                 Navigator.pop(context);
               }
             },
