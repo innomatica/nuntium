@@ -256,7 +256,7 @@ class _HomePageState extends State<HomePage> {
                         height: 80,
                         color: Theme.of(context)
                             .colorScheme
-                            .background
+                            .surface
                             .withOpacity(0.2),
                         child: child,
                       ),
